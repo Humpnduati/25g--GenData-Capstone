@@ -1,0 +1,913 @@
+id,name,fullName,nationalityCountryId,totalChampionshipWins,totalRaceWins,totalPodiums,totalPolePositions,totalPoints,totalRaceEntries,totalRaceStarts,career_start,career_end,seasons_competed,career_span_years,win_percentage,podium_percentage,pole_rate,championship_score,win_score,podium_score,pole_score,total_goat_score,championship_efficiency
+adderly-fong,Adderly Fong,Adderly Fong Cheun-yue,hong-kong,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+adolf-brudes,Adolf Brudes,Adolf Brudes von Breslau,germany,0,0,0,0,0.0,1,1,1952.0,1952.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+adolfo-schwelm-cruz,Adolfo Schwelm Cruz,Adolfo Julio Carlos Schwelm Cruz,argentina,0,0,0,0,0.0,1,1,1953.0,1953.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+adrian-campos,Adrián Campos,Adrián Campos Suñer,spain,0,0,0,0,0.0,21,17,1987.0,1988.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+adrian-sutil,Adrian Sutil,Adrian Sutil,germany,0,0,0,0,124.0,128,128,2007.0,2014.0,7.0,8.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+aguri-suzuki,Aguri Suzuki,Aguri Suzuki,japan,0,0,1,0,8.0,88,65,1988.0,1995.0,8.0,8.0,0.0,1.54,0.0,0,0,5,0,5,0.0
+al-herman,Al Herman,Al Herman,united-states-of-america,0,0,0,0,0.0,5,5,1955.0,1960.0,5.0,6.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+al-keller,Al Keller,Al Keller,united-states-of-america,0,0,0,0,0.0,5,5,1955.0,1959.0,5.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+al-pease,Al Pease,Al Pease,canada,0,0,0,0,0.0,3,2,1967.0,1969.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+alain-de-changy,Alain de Changy,Alain Carpentier de Changy,belgium,0,0,0,0,0.0,1,0,1959.0,1959.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+alain-prost,Alain Prost,Alain Marie Pascal Prost,france,4,51,106,33,798.5,202,199,1980.0,1993.0,13.0,14.0,25.63,53.27,16.34,160,1020,530,99,1809,0.3076923076923077
+alan-brown,Alan Brown,Alan Everest Brown,united-kingdom,0,0,0,0,2.0,9,8,1952.0,1954.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+alan-jones,Alan Jones,Alan Stanley Jones,australia,1,12,24,6,206.0,117,116,1975.0,1986.0,10.0,12.0,10.34,20.69,5.13,40,240,120,18,418,0.1
+alan-rees,Alan Rees,Alan Rees,united-kingdom,0,0,0,0,0.0,3,3,1966.0,1967.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+alan-rollinson,Alan Rollinson,Alan Rollinson,united-kingdom,0,0,0,0,0.0,1,0,1965.0,1965.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+alan-stacey,Alan Stacey,Alan Stacey,united-kingdom,0,0,0,0,0.0,7,7,1958.0,1960.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+albert-scherrer,Albert Scherrer,Albert Scherrer,switzerland,0,0,0,0,0.0,1,1,1953.0,1953.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+alberto-ascari,Alberto Ascari,Alberto Ascari,italy,2,13,17,14,140.14,32,32,1950.0,1955.0,6.0,6.0,40.62,53.12,43.75,80,260,85,42,467,0.3333333333333333
+alberto-colombo,Alberto Colombo,Alberto Colombo,italy,0,0,0,0,0.0,3,0,1978.0,1978.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+alberto-crespo,Alberto Crespo,Alberto Augusto Crespo,argentina,0,0,0,0,0.0,1,0,1952.0,1952.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+alberto-rodriguez-larreta,Alberto Rodriguez Larreta,Alberto Rodriguez Larreta,argentina,0,0,0,0,0.0,1,1,1960.0,1960.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+alberto-uria,Alberto Uria,Alberto Uria,uruguay,0,0,0,0,0.0,2,2,1955.0,1956.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+aldo-gordini,Aldo Gordini,Aldo Gordini,france,0,0,0,0,0.0,1,1,1951.0,1951.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+alejandro-de-tomaso,Alejandro de Tomaso,Alejandro de Tomaso,argentina,0,0,0,0,0.0,2,2,1957.0,1959.0,2.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+alessandro-nannini,Alessandro Nannini,Alessandro Nannini,italy,0,1,9,0,65.0,78,76,1986.0,1990.0,5.0,5.0,1.32,11.84,0.0,0,20,45,0,65,0.0
+alessandro-pesenti-rossi,Alessandro Pesenti-Rossi,Alessandro Pesenti-Rossi,italy,0,0,0,0,0.0,4,3,1976.0,1976.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+alex-caffi,Alex Caffi,Alessandro Caffi,italy,0,0,0,0,6.0,76,56,1986.0,1992.0,7.0,7.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+alex-palou,Álex Palou,Álex Palou Montalbo,spain,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+alex-ribeiro,Alex Ribeiro,Alexandre Dias Ribeiro,brazil,0,0,0,0,0.0,20,10,1976.0,1979.0,3.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+alex-soler-roig,Alex Soler-Roig,Alex Soler-Roig,spain,0,0,0,0,0.0,10,6,1970.0,1972.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+alex-yoong,Alex Yoong,Alexander Charles Yoong Loong,malaysia,0,0,0,0,0.0,18,14,2001.0,2002.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+alex-zanardi,Alex Zanardi,Alessandro Zanardi,italy,0,0,0,0,1.0,44,41,1991.0,1999.0,5.0,9.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+alexander-albon,Alexander Albon,Alexander Albon,thailand,0,0,2,0,310.0,122,121,2019.0,2025.0,6.0,7.0,0.0,1.65,0.0,0,0,10,0,10,0.0
+alexander-dunne,Alexander Dunne,Alexander Dunne,ireland,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+alexander-rossi,Alexander Rossi,Alexander Michael Rossi,united-states-of-america,0,0,0,0,0.0,5,5,2015.0,2015.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+alexander-wurz,Alexander Wurz,Alexander Wurz,austria,0,0,3,0,45.0,69,69,1997.0,2007.0,6.0,11.0,0.0,4.35,0.0,0,0,15,0,15,0.0
+alexandre-premat,Alexandre Prémat,Alexandre Prémat,france,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+alfonso-celis-jr,Alfonso Celis Jr.,Alfonso Celis Enecoiz,mexico,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+alfonso-de-portago,Alfonso de Portago,Alfonso Antonio Vicente Eduardo Angel Blas Francisco de Borja Cabeza de Vaca y Leighton,spain,0,0,1,0,4.0,5,5,1956.0,1957.0,2.0,2.0,0.0,20.0,0.0,0,0,5,0,5,0.0
+alfonso-thiele,Alfonso Thiele,Alfonso Thiele,united-states-of-america,0,0,0,0,0.0,1,1,1960.0,1960.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+alfredo-pian,Alfredo Pián,Alfredo Pián,argentina,0,0,0,0,0.0,1,0,1950.0,1950.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+allan-mcnish,Allan McNish,Allan McNish,united-kingdom,0,0,0,0,0.0,17,16,2002.0,2002.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+allen-berg,Allen Berg,Allen Bernard Berg,canada,0,0,0,0,0.0,9,9,1986.0,1986.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+andre-guelfi,André Guelfi,André Guelfi,france,0,0,0,0,0.0,1,1,1958.0,1958.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+andre-lotterer,André Lotterer,André Lotterer,germany,0,0,0,0,0.0,1,1,2014.0,2014.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+andre-milhoux,André Milhoux,André Milhoux,belgium,0,0,0,0,0.0,1,1,1956.0,1956.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+andre-pilette,André Pilette,André Pilette,belgium,0,0,0,0,2.0,14,9,1951.0,1964.0,7.0,14.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+andre-simon,André Simon,André Simon,france,0,0,0,0,0.0,12,11,1951.0,1957.0,5.0,7.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+andre-testut,André Testut,André Testut,monaco,0,0,0,0,0.0,2,0,1958.0,1959.0,2.0,2.0,,,0.0,0,0,0,0,0,0.0
+andrea-chiesa,Andrea Chiesa,Andrea Chiesa,switzerland,0,0,0,0,0.0,10,3,1992.0,1992.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+andrea-de-adamich,Andrea de Adamich,Andrea Lodovico de Adamich,italy,0,0,0,0,6.0,36,30,1968.0,1973.0,5.0,6.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+andrea-de-cesaris,Andrea de Cesaris,Andrea de Cesaris,italy,0,0,5,1,59.0,214,207,1980.0,1994.0,15.0,15.0,0.0,2.42,0.47,0,0,25,3,28,0.0
+andrea-montermini,Andrea Montermini,Andrea Montermini,italy,0,0,0,0,0.0,28,19,1994.0,1996.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+andy-linden,Andy Linden,Andy Linden,united-states-of-america,0,0,0,0,5.0,7,7,1951.0,1957.0,7.0,7.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+andy-sutcliffe,Andy Sutcliffe,Andy Sutcliffe,united-kingdom,0,0,0,0,0.0,1,0,1977.0,1977.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+anthony-davidson,Anthony Davidson,Anthony Denis Davidson,united-kingdom,0,0,0,0,0.0,24,24,2002.0,2008.0,4.0,7.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+anthony-joseph-foyt,Anthony Joseph Foyt,Anthony Joseph Foyt,united-states-of-america,0,0,0,0,0.0,3,3,1958.0,1960.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+antonio-creus,Antonio Creus,Antonio Creus Rubín de Celis,spain,0,0,0,0,0.0,1,1,1960.0,1960.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+antonio-giovinazzi,Antonio Giovinazzi,Antonio Giovinazzi,italy,0,0,0,0,21.0,62,62,2017.0,2021.0,4.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+antonio-pizzonia,Antônio Pizzonia,Antônio Reginaldo Pizzonia Júnior,brazil,0,0,0,0,8.0,20,20,2003.0,2005.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+archie-scott-brown,Archie Scott Brown,William Archibald Scott Brown,united-kingdom,0,0,0,0,0.0,1,1,1956.0,1956.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+art-bisch,Art Bisch,Art Bisch,united-states-of-america,0,0,0,0,0.0,1,1,1958.0,1958.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+art-cross,Art Cross,Art Cross,united-states-of-america,0,0,1,0,8.0,4,4,1952.0,1955.0,4.0,4.0,0.0,25.0,0.0,0,0,5,0,5,0.0
+artem-markelov,Artem Markelov,Artem Valeryevich Markelov,russia,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+arthur-leclerc,Arthur Leclerc,Arthur Leclerc,monaco,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+arthur-legat,Arthur Legat,Arthur Legat,belgium,0,0,0,0,0.0,2,2,1952.0,1953.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+arthur-owen,Arthur Owen,Arthur Owen,united-kingdom,0,0,0,0,0.0,1,1,1960.0,1960.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+arturo-merzario,Arturo Merzario,Arturo Francesco Merzario,italy,0,0,0,0,11.0,85,57,1972.0,1979.0,8.0,8.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+arvid-lindblad,Arvid Lindblad,Arvid Anand Olof Lindblad,united-kingdom,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+asdrubal-fontes-bayardo,Asdrúbal Fontes Bayardo,Asdrúbal Esteban Fontes Bayardo,uruguay,0,0,0,0,0.0,1,0,1959.0,1959.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+ayrton-senna,Ayrton Senna,Ayrton Senna da Silva,brazil,3,41,80,65,614.0,162,161,1984.0,1994.0,11.0,11.0,25.47,49.69,40.12,120,820,400,195,1535,0.2727272727272727
+ayumu-iwasa,Ayumu Iwasa,Ayumu Iwasa,japan,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+bas-leinders,Bas Leinders,Bas Leinders,belgium,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+basil-van-rooyen,Basil van Rooyen,Basil van Rooyen,south-africa,0,0,0,0,0.0,2,2,1968.0,1969.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+bayliss-levrett,Bayliss Levrett,Bayliss Levrett,united-states-of-america,0,0,0,0,0.0,1,1,1950.0,1950.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+ben-pon,Ben Pon,Bernardus Marinus Pon,netherlands,0,0,0,0,0.0,1,1,1962.0,1962.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+beppe-gabbiani,Beppe Gabbiani,Giuseppe Gabbiani,italy,0,0,0,0,0.0,17,3,1978.0,1981.0,2.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+bernard-collomb,Bernard Collomb,Bernard Marie François Alexandre Collomb-Clerc,france,0,0,0,0,0.0,6,4,1961.0,1964.0,4.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+bernard-de-dryver,Bernard de Dryver,Bernard de Dryver,belgium,0,0,0,0,0.0,2,0,1977.0,1978.0,2.0,2.0,,,0.0,0,0,0,0,0,0.0
+bernd-schneider,Bernd Schneider,Bernd Schneider,germany,0,0,0,0,0.0,34,9,1988.0,1990.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+bernie-ecclestone,Bernie Ecclestone,Bernard Charles Ecclestone,united-kingdom,0,0,0,0,0.0,1,0,1958.0,1958.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+bertil-roos,Bertil Roos,Bertil Roos,sweden,0,0,0,0,0.0,1,1,1974.0,1974.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+bertrand-gachot,Bertrand Gachot,Bertrand Gachot,france,0,0,0,0,5.0,84,47,1989.0,1995.0,6.0,7.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+bill-aston,Bill Aston,William Aston,united-kingdom,0,0,0,0,0.0,3,1,1952.0,1952.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+bill-brack,Bill Brack,William Brack,canada,0,0,0,0,0.0,3,3,1968.0,1972.0,3.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+bill-cantrell,Bill Cantrell,William Cantrell,united-states-of-america,0,0,0,0,0.0,1,1,1950.0,1950.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+bill-cheesbourg,Bill Cheesbourg,William Bernard Cheesbourg,united-states-of-america,0,0,0,0,0.0,3,3,1957.0,1959.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+bill-holland,Bill Holland,Bill Holland,united-states-of-america,0,0,1,0,6.0,2,2,1950.0,1953.0,2.0,4.0,0.0,50.0,0.0,0,0,5,0,5,0.0
+bill-homeier,Bill Homeier,Bill Homeier,united-states-of-america,0,0,0,0,1.0,3,3,1954.0,1960.0,3.0,7.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+bill-mackey,Bill Mackey,Bill Mackey,united-states-of-america,0,0,0,0,0.0,1,1,1951.0,1951.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+bill-moss,Bill Moss,Bill Moss,united-kingdom,0,0,0,0,0.0,1,0,1959.0,1959.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+bill-schindler,Bill Schindler,Bill Schindler,united-states-of-america,0,0,0,0,0.0,3,3,1950.0,1952.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+bill-vukovich,Bill Vukovich,William John Vukovich,united-states-of-america,0,2,2,1,19.0,5,5,1951.0,1955.0,5.0,5.0,40.0,40.0,20.0,0,40,10,3,53,0.0
+bill-whitehouse,Bill Whitehouse,Bill Whitehouse,united-kingdom,0,0,0,0,0.0,1,1,1954.0,1954.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+billy-garrett,Billy Garrett,Billy Garrett,united-states-of-america,0,0,0,0,0.0,2,2,1956.0,1958.0,2.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+birabongse-bhanudej,Birabongse Bhanudej,Prince Birabongse Bhanudej Bhanubandh,thailand,0,0,0,0,8.0,19,19,1950.0,1954.0,5.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+bjorn-wirdheim,Björn Wirdheim,Björn Karl Michael Wirdheim,sweden,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+bob-anderson,Bob Anderson,Robert Hugh Fearon Anderson,united-kingdom,0,0,1,0,8.0,29,25,1963.0,1967.0,5.0,5.0,0.0,4.0,0.0,0,0,5,0,5,0.0
+bob-bondurant,Bob Bondurant,Robert Bondurant,united-states-of-america,0,0,0,0,3.0,9,9,1965.0,1966.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+bob-christie,Bob Christie,Bob Christie,united-states-of-america,0,0,0,0,0.0,5,5,1956.0,1960.0,5.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+bob-drake,Bob Drake,Bob Drake,united-states-of-america,0,0,0,0,0.0,1,1,1960.0,1960.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+bob-evans,Bob Evans,Robert Evans,united-kingdom,0,0,0,0,0.0,12,10,1975.0,1976.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+bob-gerard,Bob Gerard,Frederick Roberts Gerard,united-kingdom,0,0,0,0,0.0,8,8,1950.0,1957.0,6.0,8.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+bob-said,Bob Said,Boris Said,united-states-of-america,0,0,0,0,0.0,1,1,1959.0,1959.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+bob-scott,Bob Scott,Bob Scott,united-states-of-america,0,0,0,0,0.0,3,3,1952.0,1954.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+bob-sweikert,Bob Sweikert,Robert Charles Sweikert,united-states-of-america,0,1,1,0,8.0,5,5,1952.0,1956.0,5.0,5.0,20.0,20.0,0.0,0,20,5,0,25,0.0
+bob-veith,Bob Veith,Bob Veith,united-states-of-america,0,0,0,0,0.0,5,5,1956.0,1960.0,5.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+bobby-ball,Bobby Ball,Robert K. Ball,united-states-of-america,0,0,0,0,2.0,2,2,1951.0,1952.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+bobby-grim,Bobby Grim,Robert Grim,united-states-of-america,0,0,0,0,0.0,2,2,1959.0,1960.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+bobby-rahal,Bobby Rahal,Robert Woodward Rahal,united-states-of-america,0,0,0,0,0.0,2,2,1978.0,1978.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+bobby-unser,Bobby Unser,Robert William Unser,united-states-of-america,0,0,0,0,0.0,2,1,1968.0,1968.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+boy-hayje,Boy Hayje,Johan Hayje,netherlands,0,0,0,0,0.0,7,3,1976.0,1977.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+brausch-niemann,Brausch Niemann,Ambraüsus Niemann,south-africa,0,0,0,0,0.0,2,1,1963.0,1965.0,2.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+brendon-hartley,Brendon Hartley,Brendon Hartley,new-zealand,0,0,0,0,4.0,25,25,2017.0,2018.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+brett-lunger,Brett Lunger,Robert Brett Lunger,united-states-of-america,0,0,0,0,0.0,43,34,1975.0,1978.0,4.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+brian-gubby,Brian Gubby,Brian Gubby,united-kingdom,0,0,0,0,0.0,1,0,1965.0,1965.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+brian-hart,Brian Hart,Brian Hart,united-kingdom,0,0,0,0,0.0,1,1,1967.0,1967.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+brian-henton,Brian Henton,Brian Henton,united-kingdom,0,0,0,0,0.0,37,19,1975.0,1982.0,4.0,8.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+brian-mcguire,Brian McGuire,Brian McGuire,australia,0,0,0,0,0.0,1,0,1977.0,1977.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+brian-naylor,Brian Naylor,John Brian Naylor,united-kingdom,0,0,0,0,0.0,8,7,1957.0,1961.0,5.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+brian-redman,Brian Redman,Brian Herman Thomas Redman,united-kingdom,0,0,1,0,8.0,15,12,1967.0,1974.0,7.0,8.0,0.0,8.33,0.0,0,0,5,0,5,0.0
+brian-shawe-taylor,Brian Shawe-Taylor,Brian Newton Shawe-Taylor,united-kingdom,0,0,0,0,0.0,2,2,1950.0,1951.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+bruce-halford,Bruce Halford,Bruce Halford,united-kingdom,0,0,0,0,0.0,9,8,1956.0,1960.0,4.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+bruce-johnstone,Bruce Johnstone,William Bruce Gordon Johnstone,south-africa,0,0,0,0,0.0,1,1,1962.0,1962.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+bruce-kessler,Bruce Kessler,Bruce Kessler,united-states-of-america,0,0,0,0,0.0,1,0,1958.0,1958.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+bruce-mclaren,Bruce McLaren,Bruce Leslie McLaren,new-zealand,0,4,27,0,196.5,104,100,1958.0,1970.0,13.0,13.0,4.0,27.0,0.0,0,80,135,0,215,0.0
+bruno-giacomelli,Bruno Giacomelli,Bruno Giacomelli,italy,0,0,1,1,14.0,82,69,1977.0,1990.0,8.0,14.0,0.0,1.45,1.22,0,0,5,3,8,0.0
+bruno-senna,Bruno Senna,Bruno Senna Lalli,brazil,0,0,0,0,33.0,46,46,2010.0,2012.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+bud-tingelstad,Bud Tingelstad,Bud Tingelstad,united-states-of-america,0,0,0,0,0.0,1,1,1960.0,1960.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+cal-niday,Cal Niday,Cal Niday,united-states-of-america,0,0,0,0,0.0,3,3,1953.0,1955.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+callum-ilott,Callum Ilott,Callum Ilott,united-kingdom,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+carel-godin-de-beaufort,Carel Godin de Beaufort,Karel Pieter Antoni Jan Hubertus Godin de Beaufort,netherlands,0,0,0,0,4.0,31,28,1957.0,1964.0,8.0,8.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+carl-forberg,Carl Forberg,Carl Forberg,united-states-of-america,0,0,0,0,0.0,1,1,1951.0,1951.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+carl-scarborough,Carl Scarborough,Carl Scarborough,united-states-of-america,0,0,0,0,0.0,2,2,1951.0,1953.0,2.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+carlo-facetti,Carlo Facetti,Carlo Giovanni Facetti,italy,0,0,0,0,0.0,1,0,1974.0,1974.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+carlo-franchi,Carlo Franchi,Carlo Franchi,italy,0,0,0,0,0.0,1,0,1978.0,1978.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+carlos-menditeguy,Carlos Menditéguy,Carlos Alberto Menditéguy,argentina,0,0,1,0,9.0,11,10,1953.0,1960.0,7.0,8.0,0.0,10.0,0.0,0,0,5,0,5,0.0
+carlos-pace,Carlos Pace,José Carlos Pace,brazil,0,1,6,1,58.0,73,72,1972.0,1977.0,6.0,6.0,1.39,8.33,1.37,0,20,30,3,53,0.0
+carlos-reutemann,Carlos Reutemann,Carlos Alberto Reutemann,argentina,0,12,45,6,310.0,146,146,1972.0,1982.0,11.0,11.0,8.22,30.82,4.11,0,240,225,18,483,0.0
+carlos-sainz-jr,Carlos Sainz Jr.,Carlos Sainz Vázquez de Castro,spain,0,4,28,6,1303.5,225,222,2015.0,2025.0,11.0,11.0,1.8,12.61,2.67,0,80,140,18,238,0.0
+carroll-shelby,Carroll Shelby,Carroll Hall Shelby,united-states-of-america,0,0,0,0,0.0,8,8,1958.0,1959.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+cecil-green,Cecil Green,Cecil Green,united-states-of-america,0,0,0,0,3.0,2,2,1950.0,1951.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+cesare-perdisa,Cesare Perdisa,Cesare Perdisa,italy,0,0,2,0,5.0,8,7,1955.0,1957.0,3.0,3.0,0.0,28.57,0.0,0,0,10,0,10,0.0
+chanoch-nissany,Chanoch Nissany,Chanoch Nissany,israel,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+charles-de-tornaco,Charles de Tornaco,Charles de Tornaco,belgium,0,0,0,0,0.0,4,2,1952.0,1953.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+charles-leclerc,Charles Leclerc,Charles Marc Hervé Perceval Leclerc,monaco,0,8,48,27,1595.0,166,164,2018.0,2025.0,8.0,8.0,4.88,29.27,16.27,0,160,240,81,481,0.0
+charles-pic,Charles Pic,Charles Pic,france,0,0,0,0,0.0,39,39,2012.0,2013.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+charles-pozzi,Charles Pozzi,Charles Pozzi,france,0,0,0,0,0.0,1,1,1950.0,1950.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+chet-miller,Chet Miller,Chet Miller,united-states-of-america,0,0,0,0,0.0,2,2,1951.0,1952.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+chico-landi,Chico Landi,Francisco Sacco Land,brazil,0,0,0,0,1.5,6,6,1951.0,1956.0,4.0,6.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+chico-serra,Chico Serra,Francisco Serra,brazil,0,0,0,0,1.0,33,18,1981.0,1983.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+chris-amon,Chris Amon,Christopher Arthur Amon,new-zealand,0,0,11,5,83.0,108,96,1963.0,1976.0,14.0,14.0,0.0,11.46,4.63,0,0,55,15,70,0.0
+chris-bristow,Chris Bristow,Christopher William Bristow,united-kingdom,0,0,0,0,0.0,4,4,1959.0,1960.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+chris-craft,Chris Craft,Christopher Craft,united-kingdom,0,0,0,0,0.0,2,1,1971.0,1971.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+chris-irwin,Chris Irwin,Chris Irwin,united-kingdom,0,0,0,0,2.0,10,10,1966.0,1967.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+chris-lawrence,Chris Lawrence,Christopher J. Lawrence,united-kingdom,0,0,0,0,0.0,2,2,1966.0,1966.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+christian-danner,Christian Danner,Christian Danner,germany,0,0,0,0,4.0,47,36,1985.0,1989.0,4.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+christian-fittipaldi,Christian Fittipaldi,Christian Fittipaldi,brazil,0,0,0,0,12.0,43,40,1992.0,1994.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+christian-goethals,Christian Goethals,Christian Roger Xavier Marie Joseph Ghislain Goethals,belgium,0,0,0,0,0.0,1,1,1958.0,1958.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+christian-klien,Christian Klien,Christian Klien,austria,0,0,0,0,14.0,51,49,2004.0,2010.0,4.0,7.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+christijan-albers,Christijan Albers,Christijan Albers,netherlands,0,0,0,0,4.0,46,46,2005.0,2007.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+christophe-bouchut,Christophe Bouchut,Christophe Bouchut,france,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+chuck-arnold,Chuck Arnold,Chuck Arnold,united-states-of-america,0,0,0,0,0.0,1,1,1959.0,1959.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+chuck-daigh,Chuck Daigh,Chuck Daigh,united-states-of-america,0,0,0,0,0.0,6,3,1960.0,1960.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+chuck-stevenson,Chuck Stevenson,Charles Stevenson,united-states-of-america,0,0,0,0,0.0,5,5,1951.0,1960.0,5.0,10.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+chuck-weyant,Chuck Weyant,Chuck Weyant,united-states-of-america,0,0,0,0,0.0,4,4,1955.0,1959.0,4.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+claudio-langes,Claudio Langes,Claudio Langes,italy,0,0,0,0,0.0,14,0,1990.0,1990.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+clay-regazzoni,Clay Regazzoni,Gianclaudio Giuseppe Regazzoni,switzerland,0,5,28,5,212.0,139,132,1970.0,1980.0,11.0,11.0,3.79,21.21,3.6,0,100,140,15,255,0.0
+clemar-bucci,Clemar Bucci,Clemar Bucci,argentina,0,0,0,0,0.0,5,5,1954.0,1955.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+clemente-biondetti,Clemente Biondetti,Clemente Biondetti,italy,0,0,0,0,0.0,1,1,1950.0,1950.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+cliff-allison,Cliff Allison,Henry Clifford Allison,united-kingdom,0,0,1,0,11.0,18,16,1958.0,1961.0,4.0,4.0,0.0,6.25,0.0,0,0,5,0,5,0.0
+cliff-griffith,Cliff Griffith,Cliff Griffith,united-states-of-america,0,0,0,0,0.0,3,3,1951.0,1956.0,3.0,6.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+clive-puzey,Clive Puzey,Clive Puzey,zimbabwe,0,0,0,0,0.0,1,0,1965.0,1965.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+colin-chapman,Colin Chapman,Anthony Colin Bruce Chapman,united-kingdom,0,0,0,0,0.0,1,0,1956.0,1956.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+colin-davis,Colin Davis,Colin Charles Houghton Davis,united-kingdom,0,0,0,0,0.0,2,2,1959.0,1959.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+conny-andersson,Conny Andersson,Conny Andersson,sweden,0,0,0,0,0.0,5,1,1976.0,1977.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+consalvo-sanesi,Consalvo Sanesi,Consalvo Sanesi,italy,0,0,0,0,3.0,5,5,1950.0,1951.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+corrado-fabi,Corrado Fabi,Corrado Fabi,italy,0,0,0,0,0.0,18,12,1983.0,1984.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+cristiano-da-matta,Cristiano da Matta,Cristiano Monteiro da Matta,brazil,0,0,0,0,13.0,28,28,2003.0,2004.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+cuth-harrison,Cuth Harrison,Thomas Cuthbert Harrison,united-kingdom,0,0,0,0,0.0,3,3,1950.0,1950.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+damien-magee,Damien Magee,Damien Magee,united-kingdom,0,0,0,0,0.0,2,1,1975.0,1976.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+damon-hill,Damon Hill,Damon Graham Devereux Hill,united-kingdom,1,22,42,20,360.0,122,115,1992.0,1999.0,8.0,8.0,19.13,36.52,16.39,40,440,210,60,750,0.125
+dan-gurney,Dan Gurney,Daniel Sexton Gurney,united-states-of-america,0,4,19,3,133.0,87,86,1959.0,1970.0,11.0,12.0,4.65,22.09,3.45,0,80,95,9,184,0.0
+dani-clos,Dani Clos,Daniel Clos Álvarez,spain,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+daniel-juncadella,Daniel Juncadella,Daniel Juncadella Pérez-Sala,spain,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+daniel-ricciardo,Daniel Ricciardo,Daniel Ricciardo,australia,0,8,32,3,1329.0,257,257,2011.0,2024.0,14.0,14.0,3.11,12.45,1.17,0,160,160,9,329,0.0
+daniil-kvyat,Daniil Kvyat,Daniil Vyacheslavovich Kvyat,russia,0,0,3,0,202.0,112,110,2014.0,2020.0,6.0,7.0,0.0,2.73,0.0,0,0,15,0,15,0.0
+danny-kladis,Danny Kladis,Danny Kladis,united-states-of-america,0,0,0,0,0.0,1,1,1954.0,1954.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+danny-ongais,Danny Ongais,Danny Ongais,united-states-of-america,0,0,0,0,0.0,6,4,1977.0,1978.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+danny-sullivan,Danny Sullivan,Daniel John Sullivan III,united-states-of-america,0,0,0,0,2.0,15,15,1983.0,1983.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+dave-charlton,Dave Charlton,David William Charlton,south-africa,0,0,0,0,0.0,14,11,1965.0,1975.0,9.0,11.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+dave-morgan,Dave Morgan,Dave Morgan,united-kingdom,0,0,0,0,0.0,1,1,1975.0,1975.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+david-brabham,David Brabham,David Brabham,australia,0,0,0,0,0.0,30,24,1990.0,1994.0,2.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+david-coulthard,David Coulthard,David Marshall Coulthard,united-kingdom,0,13,62,12,535.0,247,246,1994.0,2008.0,15.0,15.0,5.28,25.2,4.86,0,260,310,36,606,0.0
+david-hampshire,David Hampshire,David Alan Hampshire,united-kingdom,0,0,0,0,0.0,2,2,1950.0,1950.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+david-hobbs,David Hobbs,David Wishart Hobbs,united-kingdom,0,0,0,0,0.0,7,7,1967.0,1974.0,4.0,8.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+david-kennedy,David Kennedy,David Kennedy,ireland,0,0,0,0,0.0,7,0,1980.0,1980.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+david-murray,David Murray,David Murray,united-kingdom,0,0,0,0,0.0,5,4,1950.0,1952.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+david-piper,David Piper,David Piper,united-kingdom,0,0,0,0,0.0,3,2,1959.0,1960.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+david-prophet,David Prophet,David Prophet,united-kingdom,0,0,0,0,0.0,2,2,1963.0,1965.0,2.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+david-purley,David Purley,David Charles Purley,united-kingdom,0,0,0,0,0.0,11,7,1973.0,1977.0,3.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+david-walker,David Walker,David Walker,australia,0,0,0,0,0.0,11,11,1971.0,1972.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+davide-valsecchi,Davide Valsecchi,Davide Valsecchi,italy,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+dempsey-wilson,Dempsey Wilson,Dempsey Cothrin Wilson,united-states-of-america,0,0,0,0,0.0,2,2,1958.0,1960.0,2.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+dennis-poore,Dennis Poore,Roger Dennistoun Poore,united-kingdom,0,0,0,0,3.0,2,2,1952.0,1952.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+dennis-taylor,Dennis Taylor,Dennis Taylor,united-kingdom,0,0,0,0,0.0,1,0,1959.0,1959.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+denny-hulme,Denny Hulme,Denis Clive Hulme,new-zealand,1,8,33,1,248.0,112,112,1965.0,1974.0,10.0,10.0,7.14,29.46,0.89,40,160,165,3,368,0.1
+derek-bell,Derek Bell,Derek Reginald Bell,united-kingdom,0,0,0,0,1.0,16,9,1968.0,1974.0,6.0,7.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+derek-daly,Derek Daly,Derek Daly,ireland,0,0,0,0,15.0,64,49,1978.0,1982.0,5.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+derek-warwick,Derek Warwick,Derek Stanley Arthur Warwick,united-kingdom,0,0,4,0,71.0,162,147,1981.0,1993.0,11.0,13.0,0.0,2.72,0.0,0,0,20,0,20,0.0
+desire-wilson,Desiré Wilson,Desiré Randall Wilson,south-africa,0,0,0,0,0.0,1,0,1980.0,1980.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+desmond-titterington,Desmond Titterington,Desmond Titterington,united-kingdom,0,0,0,0,0.0,1,1,1956.0,1956.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+dick-gibson,Dick Gibson,Richard Gibson,united-kingdom,0,0,0,0,0.0,2,2,1957.0,1958.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+dick-rathmann,Dick Rathmann,James Rathmann,united-states-of-america,0,0,0,1,2.0,5,5,1950.0,1960.0,5.0,11.0,0.0,0.0,20.0,0,0,0,3,3,0.0
+didier-pironi,Didier Pironi,Didier Joseph Louis Pironi,france,0,3,13,4,101.0,72,70,1978.0,1982.0,5.0,5.0,4.29,18.57,5.56,0,60,65,12,137,0.0
+dieter-quester,Dieter Quester,Dieter Quester,austria,0,0,0,0,0.0,2,1,1969.0,1974.0,2.0,6.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+dino-beganovic,Dino Beganovic,Dino Beganovic,sweden,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+divina-galica,Divina Galica,Divina Mary Galica,united-kingdom,0,0,0,0,0.0,3,0,1976.0,1978.0,2.0,3.0,,,0.0,0,0,0,0,0,0.0
+domenico-schiattarella,Domenico Schiattarella,Domenico Schiattarella,italy,0,0,0,0,0.0,7,6,1994.0,1995.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+don-beauman,Don Beauman,Donald Bentley Beauman,united-kingdom,0,0,0,0,0.0,1,1,1954.0,1954.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+don-branson,Don Branson,Donald L. Branson,united-states-of-america,0,0,0,0,3.0,2,2,1959.0,1960.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+don-edmunds,Don Edmunds,Don Edmunds,united-states-of-america,0,0,0,0,0.0,1,1,1957.0,1957.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+don-freeland,Don Freeland,Don Freeland,united-states-of-america,0,0,1,0,4.0,8,8,1953.0,1960.0,8.0,8.0,0.0,12.5,0.0,0,0,5,0,5,0.0
+dorino-serafini,Dorino Serafini,Teodoro Serafini,italy,0,0,1,0,3.0,1,1,1950.0,1950.0,1.0,1.0,0.0,100.0,0.0,0,0,5,0,5,0.0
+doug-serrurier,Doug Serrurier,Louis Douglas Serrurier,south-africa,0,0,0,0,0.0,3,2,1962.0,1965.0,3.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+dries-van-der-lof,Dries van der Lof,Andre van der Lof,netherlands,0,0,0,0,0.0,1,1,1952.0,1952.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+duane-carter,Duane Carter,Duane Carter,united-states-of-america,0,0,1,0,6.5,8,8,1950.0,1960.0,8.0,11.0,0.0,12.5,0.0,0,0,5,0,5,0.0
+duke-dinsmore,Duke Dinsmore,J. Carlyle Dinsmore,united-states-of-america,0,0,0,0,0.0,4,4,1950.0,1956.0,4.0,7.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+duke-nalon,Duke Nalon,Dennis Nalon,united-states-of-america,0,0,0,1,0.0,3,3,1951.0,1953.0,3.0,3.0,0.0,0.0,33.33,0,0,0,3,3,0.0
+duncan-hamilton,Duncan Hamilton,James Duncan Hamilton,united-kingdom,0,0,0,0,0.0,5,5,1951.0,1953.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+ed-elisian,Ed Elisian,Ed Elisian,united-states-of-america,0,0,0,0,0.0,5,5,1954.0,1958.0,5.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+eddie-cheever,Eddie Cheever,Edward McKay Cheever Jr.,united-states-of-america,0,0,9,0,70.0,143,132,1978.0,1989.0,11.0,12.0,0.0,6.82,0.0,0,0,45,0,45,0.0
+eddie-irvine,Eddie Irvine,Edmund Irvine Jr.,united-kingdom,0,4,26,0,191.0,147,147,1993.0,2002.0,10.0,10.0,2.72,17.69,0.0,0,80,130,0,210,0.0
+eddie-johnson,Eddie Johnson,Eddie Johnson,united-states-of-america,0,0,0,0,1.0,9,9,1952.0,1960.0,9.0,9.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+eddie-keizan,Eddie Keizan,Eddie Keizan,south-africa,0,0,0,0,0.0,3,3,1973.0,1975.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+eddie-russo,Eddie Russo,Eddie Russo,united-states-of-america,0,0,0,0,0.0,4,4,1955.0,1960.0,4.0,6.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+eddie-sachs,Eddie Sachs,"Edward Julius Sachs, Jr.",united-states-of-america,0,0,0,1,0.0,4,4,1957.0,1960.0,4.0,4.0,0.0,0.0,25.0,0,0,0,3,3,0.0
+edgar-barth,Edgar Barth,Edgar Barth,germany,0,0,0,0,0.0,5,5,1953.0,1964.0,5.0,12.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+eitel-cantoni,Eitel Cantoni,Eitel Danilo Cantoni,uruguay,0,0,0,0,0.0,3,3,1952.0,1952.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+elie-bayol,Élie Bayol,Élie Marcel Bayol,france,0,0,0,0,2.0,8,7,1952.0,1956.0,5.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+elio-de-angelis,Elio de Angelis,Elio de Angelis,italy,0,2,9,3,122.0,109,108,1979.0,1986.0,8.0,8.0,1.85,8.33,2.75,0,40,45,9,94,0.0
+eliseo-salazar,Eliseo Salazar,Eliseo Salazar Valenzuela,chile,0,0,0,0,3.0,37,24,1981.0,1983.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+elmer-george,Elmer George,Elmer George,united-states-of-america,0,0,0,0,0.0,1,1,1957.0,1957.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+emanuele-naspetti,Emanuele Naspetti,Emanuele Naspetti,italy,0,0,0,0,0.0,6,6,1992.0,1993.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+emanuele-pirro,Emanuele Pirro,Emanuele Pirro,italy,0,0,0,0,3.0,40,37,1989.0,1991.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+emerson-fittipaldi,Emerson Fittipaldi,Emerson Fittipaldi,brazil,2,14,35,6,281.0,149,144,1970.0,1980.0,11.0,11.0,9.72,24.31,4.03,80,280,175,18,553,0.18181818181818182
+emilio-de-villota,Emilio de Villota,Emilio de Villota Ruíz,spain,0,0,0,0,0.0,14,2,1976.0,1982.0,4.0,7.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+emilio-zapico,Emilio Zapico,Emilio Rodríguez Zapico,spain,0,0,0,0,0.0,1,0,1976.0,1976.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+emmanuel-de-graffenried,Emmanuel de Graffenried,Emmanuel de Graffenried,switzerland,0,0,0,0,9.0,23,22,1950.0,1956.0,6.0,7.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+enrico-bertaggia,Enrico Bertaggia,Enrico Bertaggia,italy,0,0,0,0,0.0,7,0,1989.0,1992.0,2.0,4.0,,,0.0,0,0,0,0,0,0.0
+enrico-toccacelo,Enrico Toccacelo,Enrico Toccacelo,italy,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+enrique-bernoldi,Enrique Bernoldi,Enrique Antônio Langue e Silvério de Bernoldi,brazil,0,0,0,0,0.0,29,28,2001.0,2002.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+eppie-wietzes,Eppie Wietzes,Egbert Wietzes,canada,0,0,0,0,0.0,2,2,1967.0,1974.0,2.0,8.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+eric-bernard,Éric Bernard,Éric Bernard,france,0,0,1,0,10.0,47,45,1989.0,1994.0,4.0,6.0,0.0,2.22,0.0,0,0,5,0,5,0.0
+eric-brandon,Eric Brandon,Eric Brandon,united-kingdom,0,0,0,0,0.0,5,5,1952.0,1954.0,2.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+eric-thompson,Eric Thompson,Eric Thompson,united-kingdom,0,0,0,0,2.0,1,1,1952.0,1952.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+eric-van-de-poele,Eric van de Poele,Eric van de Poele,belgium,0,0,0,0,0.0,29,5,1991.0,1992.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+erik-comas,Érik Comas,Érik Comas,france,0,0,0,0,7.0,63,59,1991.0,1994.0,4.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+ernesto-brambilla,Ernesto Brambilla,Ernesto Brambilla,italy,0,0,0,0,0.0,2,0,1963.0,1969.0,2.0,7.0,,,0.0,0,0,0,0,0,0.0
+ernesto-prinoth,Ernesto Prinoth,Ernesto Prinoth,italy,0,0,0,0,0.0,1,0,1962.0,1962.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+ernesto-viso,Ernesto Viso,Ernesto José Viso Lossada,venezuela,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+ernie-mccoy,Ernie McCoy,Ernie McCoy,united-states-of-america,0,0,0,0,0.0,2,2,1953.0,1954.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+ernie-pieterse,Ernie Pieterse,Ernest Pieterse,south-africa,0,0,0,0,0.0,3,2,1962.0,1965.0,3.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+ernst-klodwig,Ernst Klodwig,Ernst Klodwig,germany,0,0,0,0,0.0,2,2,1952.0,1953.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+ernst-loof,Ernst Loof,Ernst Loof,germany,0,0,0,0,0.0,1,1,1953.0,1953.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+erwin-bauer,Erwin Bauer,Erwin Bauer,germany,0,0,0,0,0.0,1,1,1953.0,1953.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+esteban-gutierrez,Esteban Gutiérrez,Esteban Manuel Gutiérrez Gutiérrez,mexico,0,0,0,0,6.0,59,59,2013.0,2016.0,3.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+esteban-ocon,Esteban Ocon,Esteban Ocon,france,0,1,4,0,473.0,173,173,2016.0,2025.0,9.0,10.0,0.58,2.31,0.0,0,20,20,0,40,0.0
+esteban-tuero,Esteban Tuero,Esteban Tuero,argentina,0,0,0,0,0.0,16,16,1998.0,1998.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+ettore-chimeri,Ettore Chimeri,Ettore Muro Chimeri,venezuela,0,0,0,0,0.0,1,1,1960.0,1960.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+eugene-chaboud,Eugène Chaboud,Marius Eugène Chaboud,france,0,0,0,0,1.0,3,3,1950.0,1951.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+eugene-martin,Eugène Martin,Eugène Martin,france,0,0,0,0,0.0,2,2,1950.0,1950.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+eugenio-castellotti,Eugenio Castellotti,Eugenio Castellotti,italy,0,0,3,1,19.5,14,14,1955.0,1957.0,3.0,3.0,0.0,21.43,7.14,0,0,15,3,18,0.0
+fabio-leimer,Fabio Leimer,Fabio Leimer,switzerland,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+fabrizio-barbazza,Fabrizio Barbazza,Fabrizio Barbazza,italy,0,0,0,0,2.0,20,8,1991.0,1993.0,2.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+fairuz-fauzy,Fairuz Fauzy,Mohamed Fairuz Fauzy,malaysia,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+felice-bonetto,Felice Bonetto,Felice Bonetto,italy,0,0,2,0,17.5,16,15,1950.0,1953.0,4.0,4.0,0.0,13.33,0.0,0,0,10,0,10,0.0
+felipe-drugovich,Felipe Drugovich,Felipe Drugovich Roncato,brazil,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+felipe-massa,Felipe Massa,Felipe Massa,brazil,0,11,41,16,1167.0,271,269,2002.0,2017.0,15.0,16.0,4.09,15.24,5.9,0,220,205,48,473,0.0
+felipe-nasr,Felipe Nasr,Luiz Felipe de Oliveira Nasr,brazil,0,0,0,0,29.0,40,39,2015.0,2016.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+fernando-alonso,Fernando Alonso,Fernando Alonso Díaz,spain,2,32,106,22,2367.0,421,419,2001.0,2025.0,22.0,25.0,7.64,25.3,5.23,80,640,530,66,1316,0.09090909090909091
+franck-lagorce,Franck Lagorce,Franck Lagorce,france,0,0,0,0,0.0,2,2,1994.0,1994.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+franck-montagny,Franck Montagny,Franck Montagny,france,0,0,0,0,0.0,7,7,2006.0,2006.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+franco-colapinto,Franco Colapinto,Franco Alejandro Colapinto,argentina,0,0,0,0,5.0,20,19,2024.0,2025.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+franco-comotti,Franco Comotti,Gianfranco Comotti,italy,0,0,0,0,0.0,2,2,1950.0,1952.0,2.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+franco-forini,Franco Forini,Franco Forini,switzerland,0,0,0,0,0.0,3,2,1987.0,1987.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+franco-rol,Franco Rol,Franco Rol,italy,0,0,0,0,0.0,5,5,1950.0,1952.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+francois-cevert,François Cevert,Albert François Cevert Goldenberg,france,0,1,13,0,89.0,48,47,1969.0,1973.0,5.0,5.0,2.13,27.66,0.0,0,20,65,0,85,0.0
+francois-hesnault,François Hesnault,François Hesnault,france,0,0,0,0,0.0,21,19,1984.0,1985.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+francois-mazet,François Mazet,François Mazet,france,0,0,0,0,0.0,1,1,1971.0,1971.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+francois-migault,François Migault,François Migault,france,0,0,0,0,0.0,16,13,1972.0,1975.0,3.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+francois-picard,François Picard,François Picard,france,0,0,0,0,0.0,1,1,1958.0,1958.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+frank-armi,Frank Armi,Frank Armi,united-states-of-america,0,0,0,0,0.0,1,1,1954.0,1954.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+frank-dochnal,Frank Dochnal,Frank J. Dochnal,united-states-of-america,0,0,0,0,0.0,1,0,1963.0,1963.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+frank-gardner,Frank Gardner,Frank Gardner,australia,0,0,0,0,0.0,9,8,1964.0,1968.0,3.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+fred-agabashian,Fred Agabashian,Levon Agabashian,united-states-of-america,0,0,0,1,1.5,8,8,1950.0,1957.0,8.0,8.0,0.0,0.0,12.5,0,0,0,3,3,0.0
+fred-gamble,Fred Gamble,Fred K. Gamble,united-states-of-america,0,0,0,0,0.0,1,1,1960.0,1960.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+fred-wacker,Fred Wacker,Frederick G. Wacker Jr.,united-states-of-america,0,0,0,0,0.0,5,3,1953.0,1954.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+frederik-vesti,Frederik Vesti,Frederik Vesti Stamm,denmark,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+fritz-dorey,Fritz d'Orey,Frederico José Carlos Themudo d'Orey,brazil,0,0,0,0,0.0,3,3,1959.0,1959.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+fritz-riess,Fritz Riess,Fritz Riess,germany,0,0,0,0,0.0,1,1,1952.0,1952.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+gabriel-bortoleto,Gabriel Bortoleto,Gabriel Bortoleto Oliveira,brazil,0,0,0,0,18.0,17,17,2025.0,2025.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+gabriele-tarquini,Gabriele Tarquini,Gabriele Tarquini,italy,0,0,0,0,1.0,78,38,1987.0,1995.0,7.0,9.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+gaetano-starrabba,Gaetano Starrabba,Prince Gaetano Starrabba di Giardinelli,italy,0,0,0,0,0.0,1,1,1961.0,1961.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+gary-brabham,Gary Brabham,Gary Brabham,australia,0,0,0,0,0.0,2,0,1990.0,1990.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+gaston-mazzacane,Gastón Mazzacane,Gastón Hugo Mazzacane,argentina,0,0,0,0,0.0,21,21,2000.0,2001.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+gene-force,Gene Force,Gene Force,united-states-of-america,0,0,0,0,0.0,2,2,1951.0,1960.0,2.0,10.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+gene-hartley,Gene Hartley,Leslie Eugene Hartley,united-states-of-america,0,0,0,0,0.0,8,8,1950.0,1960.0,8.0,11.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+geoff-lees,Geoff Lees,Geoffrey Lees,united-kingdom,0,0,0,0,0.0,12,5,1978.0,1982.0,4.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+geoffrey-crossley,Geoffrey Crossley,Geoffrey Crossley,united-kingdom,0,0,0,0,0.0,2,2,1950.0,1950.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+george-abecassis,George Abecassis,George Edgar Abecassis,united-kingdom,0,0,0,0,0.0,2,2,1951.0,1952.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+george-amick,George Amick,George R. Amick,united-states-of-america,0,0,1,0,6.0,1,1,1958.0,1958.0,1.0,1.0,0.0,100.0,0.0,0,0,5,0,5,0.0
+george-connor,George Connor,George Connor,united-states-of-america,0,0,0,0,0.0,3,3,1950.0,1952.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+george-constantine,George Constantine,George J. Constantine,united-states-of-america,0,0,0,0,0.0,1,1,1959.0,1959.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+george-eaton,George Eaton,George Ross Eaton,canada,0,0,0,0,0.0,13,11,1969.0,1971.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+george-follmer,George Follmer,George Follmer,united-states-of-america,0,0,1,0,5.0,13,12,1973.0,1973.0,1.0,1.0,0.0,8.33,0.0,0,0,5,0,5,0.0
+george-fonder,George Fonder,George Fonder,united-states-of-america,0,0,0,0,0.0,2,2,1952.0,1954.0,2.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+george-russell,George Russell,George Russell,united-kingdom,0,4,22,6,926.0,145,145,2019.0,2025.0,7.0,7.0,2.76,15.17,4.14,0,80,110,18,208,0.0
+georges-berger,Georges Berger,Georges Berger,belgium,0,0,0,0,0.0,2,2,1953.0,1954.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+georges-grignard,Georges Grignard,Auguste Georges Paul Grignard,france,0,0,0,0,0.0,1,1,1951.0,1951.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+gerard-larrousse,Gérard Larrousse,Gérard Larrousse,france,0,0,0,0,0.0,2,1,1974.0,1974.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+gerhard-berger,Gerhard Berger,Gerhard Berger,austria,0,10,48,12,385.0,210,210,1984.0,1997.0,14.0,14.0,4.76,22.86,5.71,0,200,240,36,476,0.0
+gerhard-mitter,Gerhard Mitter,Gerhard Karl Mitter,germany,0,0,0,0,3.0,7,5,1963.0,1969.0,6.0,7.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+gerino-gerini,Gerino Gerini,Gerino Gerini,italy,0,0,0,0,1.5,7,6,1956.0,1958.0,2.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+gerry-ashmore,Gerry Ashmore,Gerry Ashmore,united-kingdom,0,0,0,0,0.0,4,3,1961.0,1962.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+giacomo-russo,Giacomo Russo,Giacomo Russo,italy,0,0,0,0,0.0,3,2,1964.0,1966.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+giancarlo-baghetti,Giancarlo Baghetti,Giancarlo Baghetti,italy,0,1,1,0,14.0,21,21,1961.0,1967.0,7.0,7.0,4.76,4.76,0.0,0,20,5,0,25,0.0
+giancarlo-fisichella,Giancarlo Fisichella,Giancarlo Fisichella,italy,0,3,19,4,275.0,231,229,1996.0,2009.0,14.0,14.0,1.31,8.3,1.73,0,60,95,12,167,0.0
+gianfranco-brancatelli,Gianfranco Brancatelli,Gianfranco Brancatelli,italy,0,0,0,0,0.0,3,0,1979.0,1979.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+gianmaria-bruni,Gianmaria Bruni,Gianmaria Bruni,italy,0,0,0,0,0.0,18,18,2004.0,2004.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+gianni-morbidelli,Gianni Morbidelli,Gianni Morbidelli,italy,0,0,1,0,8.5,70,67,1990.0,1997.0,6.0,8.0,0.0,1.49,0.0,0,0,5,0,5,0.0
+giedo-van-der-garde,Giedo van der Garde,Giedo Gijsbertus Gerrit van der Garde,netherlands,0,0,0,0,0.0,19,19,2013.0,2013.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+gijs-van-lennep,Gijs van Lennep,Gijsbert van Lennep,netherlands,0,0,0,0,2.0,10,8,1971.0,1975.0,4.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+gilles-villeneuve,Gilles Villeneuve,Joseph Gilles Henri Villeneuve,canada,0,6,13,2,107.0,68,67,1977.0,1982.0,6.0,6.0,8.96,19.4,2.94,0,120,65,6,191,0.0
+gino-bianco,Gino Bianco,Luigi Emilio Rodolfo Bertetti Bianco,brazil,0,0,0,0,0.0,4,4,1952.0,1952.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+gino-munaron,Gino Munaron,Gino Munaron,italy,0,0,0,0,0.0,5,4,1960.0,1960.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+giorgio-bassi,Giorgio Bassi,Giorgio Bassi,italy,0,0,0,0,0.0,1,1,1965.0,1965.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+giorgio-francia,Giorgio Francia,Giorgio Francia,italy,0,0,0,0,0.0,2,0,1977.0,1981.0,2.0,5.0,,,0.0,0,0,0,0,0,0.0
+giorgio-mondini,Giorgio Mondini,Giorgio Mondini,switzerland,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+giorgio-pantano,Giorgio Pantano,Giorgio Pantano,italy,0,0,0,0,0.0,14,14,2004.0,2004.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+giorgio-scarlatti,Giorgio Scarlatti,Giorgio Scarlatti,italy,0,0,0,0,1.0,15,12,1956.0,1961.0,6.0,6.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+giovanna-amati,Giovanna Amati,Giovanna Amati,italy,0,0,0,0,0.0,3,0,1992.0,1992.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+giovanni-de-riu,Giovanni de Riu,Giovanni de Riu,italy,0,0,0,0,0.0,1,0,1954.0,1954.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+giovanni-lavaggi,Giovanni Lavaggi,Giovanni Lavaggi,italy,0,0,0,0,0.0,10,7,1995.0,1996.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+giulio-cabianca,Giulio Cabianca,Giulio Cabianca,italy,0,0,0,0,3.0,4,3,1958.0,1960.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+graham-hill,Graham Hill,Norman Graham Hill,united-kingdom,2,14,36,13,289.0,179,176,1958.0,1975.0,18.0,18.0,7.95,20.45,7.26,80,280,180,39,579,0.1111111111111111
+graham-mcrae,Graham McRae,Graham McRae,new-zealand,0,0,0,0,0.0,1,1,1973.0,1973.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+graham-whitehead,Graham Whitehead,Anthony Graham Whitehead,united-kingdom,0,0,0,0,0.0,1,1,1952.0,1952.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+gregor-foitek,Gregor Foitek,Gregor Foitek,switzerland,0,0,0,0,0.0,22,7,1989.0,1990.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+guanyu-zhou,Guanyu Zhou,Guanyu Zhou,china,0,0,0,0,16.0,68,68,2022.0,2024.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+gunnar-nilsson,Gunnar Nilsson,Gunnar Nilsson,sweden,0,1,4,0,31.0,32,31,1976.0,1977.0,2.0,2.0,3.23,12.9,0.0,0,20,20,0,40,0.0
+gunther-seiffert,Günther Seiffert,Günther Seiffert,germany,0,0,0,0,0.0,1,0,1962.0,1962.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+gus-hutchison,Gus Hutchison,Gus Hutchison,united-states-of-america,0,0,0,0,0.0,1,1,1970.0,1970.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+guy-edwards,Guy Edwards,Guy Richard Goronwy Edwards,united-kingdom,0,0,0,0,0.0,17,11,1974.0,1977.0,3.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+guy-ligier,Guy Ligier,Guy Camille Ligier,france,0,0,0,0,1.0,13,12,1966.0,1967.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+guy-mairesse,Guy Mairesse,Guy Mairesse,france,0,0,0,0,0.0,3,3,1950.0,1951.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+guy-tunmer,Guy Tunmer,Percival Guy Tunmer,south-africa,0,0,0,0,0.0,1,1,1975.0,1975.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+hans-binder,Hans Binder,Hans Binder,austria,0,0,0,0,0.0,15,13,1976.0,1978.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+hans-herrmann,Hans Herrmann,Hans Herrmann,germany,0,0,1,0,10.0,21,18,1953.0,1969.0,10.0,17.0,0.0,5.56,0.0,0,0,5,0,5,0.0
+hans-heyer,Hans Heyer,Hans Heyer,germany,0,0,0,0,0.0,1,1,1977.0,1977.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+hans-joachim-stuck,Hans-Joachim Stuck,Hans-Joachim Stuck,germany,0,0,2,0,29.0,81,74,1974.0,1979.0,6.0,6.0,0.0,2.7,0.0,0,0,10,0,10,0.0
+hans-klenk,Hans Klenk,Hans Klenk,germany,0,0,0,0,0.0,1,1,1952.0,1952.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+hans-stuck,Hans Stuck,Hans Stuck,germany,0,0,0,0,0.0,5,3,1951.0,1953.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+hap-sharp,Hap Sharp,James Sharp,united-states-of-america,0,0,0,0,0.0,6,6,1961.0,1964.0,4.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+harald-ertl,Harald Ertl,Harald Ertl,austria,0,0,0,0,0.0,28,19,1975.0,1980.0,5.0,6.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+harry-blanchard,Harry Blanchard,Harry Cutler Blanchard,united-states-of-america,0,0,0,0,0.0,1,1,1959.0,1959.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+harry-merkel,Harry Merkel,Harry Erich Merkel,germany,0,0,0,0,0.0,1,0,1952.0,1952.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+harry-schell,Harry Schell,Henry O'Reilly Schell,united-states-of-america,0,0,2,0,32.0,57,56,1950.0,1960.0,11.0,11.0,0.0,3.57,0.0,0,0,10,0,10,0.0
+hector-rebaque,Héctor Rebaque,Héctor Alonso Rebaque,mexico,0,0,0,0,13.0,58,41,1977.0,1981.0,5.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+heikki-kovalainen,Heikki Kovalainen,Heikki Johannes Kovalainen,finland,0,1,4,1,105.0,112,111,2007.0,2013.0,7.0,7.0,0.9,3.6,0.89,0,20,20,3,43,0.0
+heini-walter,Heini Walter,Heini Walter,switzerland,0,0,0,0,0.0,1,1,1962.0,1962.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+heinz-harald-frentzen,Heinz-Harald Frentzen,Heinz-Harald Frentzen,germany,0,3,18,2,174.0,159,156,1994.0,2003.0,10.0,10.0,1.92,11.54,1.26,0,60,90,6,156,0.0
+heinz-schiller,Heinz Schiller,Heinz Schiller,switzerland,0,0,0,0,0.0,1,1,1962.0,1962.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+helm-glockler,Helm Glöckler,Helm Glöckler,germany,0,0,0,0,0.0,1,0,1953.0,1953.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+helmut-marko,Helmut Marko,Helmut Marko,austria,0,0,0,0,0.0,10,9,1971.0,1972.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+helmut-niedermayr,Helmut Niedermayr,Helmut Niedermayr,germany,0,0,0,0,0.0,1,1,1952.0,1952.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+helmuth-koinigg,Helmuth Koinigg,Helmuth Koinigg,austria,0,0,0,0,0.0,3,2,1974.0,1974.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+henri-louveau,Henri Louveau,Henri Louveau,france,0,0,0,0,0.0,2,2,1950.0,1951.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+henri-pescarolo,Henri Pescarolo,Henri Jacques William Pescarolo,france,0,0,1,0,12.0,64,57,1968.0,1976.0,8.0,9.0,0.0,1.75,0.0,0,0,5,0,5,0.0
+henry-banks,Henry Banks,Henry Banks,united-states-of-america,0,0,0,0,0.0,3,3,1950.0,1952.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+henry-taylor,Henry Taylor,Henry Taylor,united-kingdom,0,0,0,0,3.0,11,8,1959.0,1961.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+herbert-mackay-fraser,Herbert MacKay-Fraser,Herbert MacKay-Fraser,united-states-of-america,0,0,0,0,0.0,1,1,1957.0,1957.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+hermann-lang,Hermann Lang,Hermann Lang,germany,0,0,0,0,2.0,2,2,1953.0,1954.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+hermano-da-silva-ramos,Hermano da Silva Ramos,Hermano João da Silva Ramos,brazil,0,0,0,0,2.0,7,7,1955.0,1956.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+hideki-noda,Hideki Noda,Hideki Noda,japan,0,0,0,0,0.0,3,3,1994.0,1994.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+hiroshi-fushida,Hiroshi Fushida,Hiroshi Fushida,japan,0,0,0,0,0.0,2,0,1975.0,1975.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+horace-gould,Horace Gould,Horace Harry Twigg,united-kingdom,0,0,0,0,2.0,18,14,1954.0,1960.0,6.0,7.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+howden-ganley,Howden Ganley,James Howden Ganley,new-zealand,0,0,0,0,10.0,41,35,1971.0,1974.0,4.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+hubert-hahne,Hubert Hahne,Hubert Hahne,germany,0,0,0,0,0.0,5,3,1966.0,1970.0,5.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+huub-rothengatter,Huub Rothengatter,Hubertus Rothengatter,netherlands,0,0,0,0,0.0,30,25,1984.0,1986.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+ian-ashley,Ian Ashley,Ian Hugh Gordon Ashley,united-kingdom,0,0,0,0,0.0,11,4,1974.0,1977.0,4.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+ian-burgess,Ian Burgess,Ian Burgess,united-kingdom,0,0,0,0,0.0,20,16,1958.0,1963.0,6.0,6.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+ian-raby,Ian Raby,Ian Ewart Raby,united-kingdom,0,0,0,0,0.0,7,3,1963.0,1965.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+ian-scheckter,Ian Scheckter,Ian Scheckter,south-africa,0,0,0,0,0.0,20,18,1974.0,1977.0,4.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+ian-stewart,Ian Stewart,Ian Macpherson M. Stewart,united-kingdom,0,0,0,0,0.0,1,1,1953.0,1953.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+ignazio-giunti,Ignazio Giunti,Ignazio Giunti,italy,0,0,0,0,3.0,4,4,1970.0,1970.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+ingo-hoffmann,Ingo Hoffmann,Ingo Hoffmann,brazil,0,0,0,0,0.0,6,3,1976.0,1977.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+innes-ireland,Innes Ireland,Robert McGregor Innes Ireland,united-kingdom,0,1,4,0,47.0,53,50,1959.0,1966.0,8.0,8.0,2.0,8.0,0.0,0,20,20,0,40,0.0
+isack-hadjar,Isack Hadjar,Isack Alexandre Hadjar,france,0,0,1,0,39.0,17,17,2025.0,2025.0,1.0,1.0,0.0,5.88,0.0,0,0,5,0,5,0.0
+ivan-capelli,Ivan Capelli,Ivan Franco Capelli,italy,0,0,3,0,31.0,98,93,1985.0,1993.0,9.0,9.0,0.0,3.23,0.0,0,0,15,0,15,0.0
+ivor-bueb,Ivor Bueb,Ivor Léon John Bueb,united-kingdom,0,0,0,0,0.0,6,5,1957.0,1959.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jac-nellemann,Jac Nellemann,Jacob Nellemann,denmark,0,0,0,0,0.0,1,0,1976.0,1976.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+jack-aitken,Jack Aitken,Jack Aitken,united-kingdom,0,0,0,0,0.0,1,1,2020.0,2020.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jack-brabham,Jack Brabham,Sir John Arthur Brabham,australia,3,14,31,13,261.0,128,126,1955.0,1970.0,16.0,16.0,11.11,24.6,10.16,120,280,155,39,594,0.1875
+jack-doohan,Jack Doohan,Jack Doohan,australia,0,0,0,0,0.0,7,7,2024.0,2025.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jack-fairman,Jack Fairman,Jack Fairman,united-kingdom,0,0,0,0,5.0,13,12,1953.0,1961.0,8.0,9.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jack-mcgrath,Jack McGrath,John James McGrath,united-states-of-america,0,0,2,1,9.0,6,6,1950.0,1955.0,6.0,6.0,0.0,33.33,16.67,0,0,10,3,13,0.0
+jack-turner,Jack Turner,Jack Turner,united-states-of-america,0,0,0,0,0.0,4,4,1956.0,1959.0,4.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jackie-holmes,Jackie Holmes,Jackie Holmes,united-states-of-america,0,0,0,0,0.0,2,2,1950.0,1953.0,2.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jackie-lewis,Jackie Lewis,Jackie Lewis,united-kingdom,0,0,0,0,3.0,10,9,1961.0,1962.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jackie-oliver,Jackie Oliver,Keith Jack Oliver,united-kingdom,0,0,2,0,13.0,52,50,1967.0,1977.0,8.0,11.0,0.0,4.0,0.0,0,0,10,0,10,0.0
+jackie-pretorius,Jackie Pretorius,Jacobus Pretorius,south-africa,0,0,0,0,0.0,4,3,1965.0,1973.0,4.0,9.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jackie-stewart,Jackie Stewart,Sir John Young Stewart,united-kingdom,3,27,43,17,360.0,100,99,1965.0,1973.0,9.0,9.0,27.27,43.43,17.0,120,540,215,51,926,0.3333333333333333
+jacky-ickx,Jacky Ickx,Jacques Bernard Ickx,belgium,0,8,25,13,181.0,122,116,1966.0,1979.0,14.0,14.0,6.9,21.55,10.66,0,160,125,39,324,0.0
+jacques-laffite,Jacques Laffite,Jacques-Henri Laffite,france,0,6,32,7,228.0,180,176,1974.0,1986.0,13.0,13.0,3.41,18.18,3.89,0,120,160,21,301,0.0
+jacques-pollet,Jacques Pollet,Jacques Pollet,france,0,0,0,0,0.0,5,5,1954.0,1955.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jacques-swaters,Jacques Swaters,Jacques Swaters,belgium,0,0,0,0,0.0,8,7,1951.0,1954.0,3.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jacques-villeneuve-sr,"Jacques Villeneuve, Sr.",Jacques-Joseph Villeneuve,canada,0,0,0,0,0.0,3,0,1981.0,1983.0,2.0,3.0,,,0.0,0,0,0,0,0,0.0
+jacques-villeneuve,Jacques Villeneuve,Jacques Joseph Charles Villeneuve,canada,1,11,23,13,235.0,165,163,1996.0,2006.0,11.0,11.0,6.75,14.11,7.88,40,220,115,39,414,0.09090909090909091
+jaime-alguersuari,Jaime Alguersuari,Jaime Víctor Alguersuari Escudero,spain,0,0,0,0,31.0,46,46,2009.0,2011.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jake-dennis,Jake Dennis,Jake Dennis,united-kingdom,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+james-calado,James Calado,James John Calado,united-kingdom,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+james-hunt,James Hunt,James Simon Wallis Hunt,united-kingdom,1,10,23,14,179.0,93,92,1973.0,1979.0,7.0,7.0,10.87,25.0,15.05,40,200,115,42,397,0.14285714285714285
+jan-charouz,Jan Charouz,Jan Charouz,czechia,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+jan-flinterman,Jan Flinterman,Johannes Leonardus Flinterman,netherlands,0,0,0,0,0.0,1,1,1952.0,1952.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jan-lammers,Jan Lammers,Johannes Lammers,netherlands,0,0,0,0,0.0,41,23,1979.0,1992.0,5.0,14.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jan-magnussen,Jan Magnussen,Jan Ellegaard Magnussen,denmark,0,0,0,0,1.0,25,24,1995.0,1998.0,3.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jarno-trulli,Jarno Trulli,Jarno Trulli,italy,0,1,11,4,246.5,256,252,1997.0,2011.0,15.0,15.0,0.4,4.37,1.56,0,20,55,12,87,0.0
+jay-chamberlain,Jay Chamberlain,Jay Chamberlain,united-states-of-america,0,0,0,0,0.0,3,1,1962.0,1962.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jean-alesi,Jean Alesi,Giovanni Alesi,france,0,1,32,2,241.0,202,201,1989.0,2001.0,13.0,13.0,0.5,15.92,0.99,0,20,160,6,186,0.0
+jean-behra,Jean Behra,Jean Marie Behra,france,0,0,9,0,51.14,53,52,1952.0,1959.0,8.0,8.0,0.0,17.31,0.0,0,0,45,0,45,0.0
+jean-christophe-boullion,Jean-Christophe Boullion,Jean-Christophe Boullion,france,0,0,0,0,3.0,11,11,1995.0,1995.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jean-claude-rudaz,Jean-Claude Rudaz,Jean-Claude Rudaz,switzerland,0,0,0,0,0.0,1,0,1964.0,1964.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+jean-denis-deletraz,Jean-Denis Délétraz,Jean-Denis Délétraz,switzerland,0,0,0,0,0.0,3,3,1994.0,1995.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jean-eric-vergne,Jean-Éric Vergne,Jean-Éric Vergne,france,0,0,0,0,51.0,58,58,2012.0,2014.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jean-louis-schlesser,Jean-Louis Schlesser,Jean-Louis Schlesser,france,0,0,0,0,0.0,2,1,1983.0,1988.0,2.0,6.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jean-lucas,Jean Lucas,Jean Lucas,france,0,0,0,0,0.0,1,1,1955.0,1955.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jean-lucienbonnet,Jean Lucienbonnet,Lucien Jean Bonnet,france,0,0,0,0,0.0,1,0,1959.0,1959.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+jean-marc-gounon,Jean-Marc Gounon,Jean-Marc Gounon,france,0,0,0,0,0.0,9,9,1993.0,1994.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jean-pierre-beltoise,Jean-Pierre Beltoise,Jean-Pierre Maurice Georges Beltoise,france,0,1,8,0,77.0,88,86,1966.0,1974.0,9.0,9.0,1.16,9.3,0.0,0,20,40,0,60,0.0
+jean-pierre-jabouille,Jean-Pierre Jabouille,Jean-Pierre Alain Jabouille,france,0,2,2,6,21.0,56,49,1974.0,1981.0,7.0,8.0,4.08,4.08,10.71,0,40,10,18,68,0.0
+jean-pierre-jarier,Jean-Pierre Jarier,Jean-Pierre Jacques Jarier,france,0,0,3,3,31.5,143,135,1971.0,1983.0,12.0,13.0,0.0,2.22,2.1,0,0,15,9,24,0.0
+jenson-button,Jenson Button,Jenson Alexander Lyons Button,united-kingdom,1,15,50,8,1235.0,309,306,2000.0,2017.0,18.0,18.0,4.9,16.34,2.59,40,300,250,24,614,0.05555555555555555
+jerome-dambrosio,Jérôme d'Ambrosio,Jérôme d'Ambrosio,belgium,0,0,0,0,0.0,20,20,2011.0,2012.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jerry-hoyt,Jerry Hoyt,Gerald F. Hoyt,united-states-of-america,0,0,0,1,0.0,4,4,1950.0,1955.0,4.0,6.0,0.0,0.0,25.0,0,0,0,3,3,0.0
+jerry-unser-jr,Jerry Unser Jr.,Jeremy Michael Unser Jr.,united-states-of-america,0,0,0,0,0.0,1,1,1958.0,1958.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jesus-iglesias,Jesús Iglesias,Jesús Ricardo Iglesias,argentina,0,0,0,0,0.0,1,1,1955.0,1955.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jim-clark,Jim Clark,"James Clark, Jr.",united-kingdom,2,25,32,33,274.0,73,72,1960.0,1968.0,9.0,9.0,34.72,44.44,45.21,80,500,160,99,839,0.2222222222222222
+jim-crawford,Jim Crawford,Jim Crawford,united-kingdom,0,0,0,0,0.0,2,2,1975.0,1975.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jim-hall,Jim Hall,Jim Hall,united-states-of-america,0,0,0,0,3.0,12,11,1960.0,1963.0,4.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jim-hurtubise,Jim Hurtubise,James Hurtubise,united-states-of-america,0,0,0,0,0.0,1,1,1960.0,1960.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jim-mcwithey,Jim McWithey,Jim McWithey,united-states-of-america,0,0,0,0,0.0,2,2,1959.0,1960.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jim-rathmann,Jim Rathmann,Royal Richard Rathmann,united-states-of-america,0,1,4,0,29.0,10,10,1950.0,1960.0,10.0,11.0,10.0,40.0,0.0,0,20,20,0,40,0.0
+jim-rigsby,Jim Rigsby,Jim Rigsby,united-states-of-america,0,0,0,0,0.0,1,1,1952.0,1952.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jimmy-bryan,Jimmy Bryan,James Ernest Bryan,united-states-of-america,0,1,3,0,18.0,9,9,1952.0,1960.0,9.0,9.0,11.11,33.33,0.0,0,20,15,0,35,0.0
+jimmy-davies,Jimmy Davies,James Richard Davies,united-states-of-america,0,0,1,0,4.0,5,5,1950.0,1955.0,5.0,6.0,0.0,20.0,0.0,0,0,5,0,5,0.0
+jimmy-daywalt,Jimmy Daywalt,Jimmy Daywalt,united-states-of-america,0,0,0,0,0.0,6,6,1953.0,1959.0,6.0,7.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jimmy-jackson,Jimmy Jackson,Jimmy Jackson,united-states-of-america,0,0,0,0,0.0,2,2,1950.0,1954.0,2.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jimmy-reece,Jimmy Reece,Jimmy Reece,united-states-of-america,0,0,0,0,0.0,6,6,1952.0,1958.0,6.0,7.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jimmy-stewart,Jimmy Stewart,James Robert Stewart,united-kingdom,0,0,0,0,0.0,1,1,1953.0,1953.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jj-lehto,JJ Lehto,Jyrki Juhani Järvilehto,finland,0,0,1,0,10.0,70,62,1989.0,1994.0,6.0,6.0,0.0,1.61,0.0,0,0,5,0,5,0.0
+jo-bonnier,Jo Bonnier,Joakim Bonnier,sweden,0,1,1,1,39.0,108,104,1956.0,1971.0,16.0,16.0,0.96,0.96,0.93,0,20,5,3,28,0.0
+jo-gartner,Jo Gartner,Josef Gartner,austria,0,0,0,0,0.0,8,8,1984.0,1984.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jo-schlesser,Jo Schlesser,Joseph Schlesser,france,0,0,0,0,0.0,3,3,1966.0,1968.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jo-siffert,Jo Siffert,Joseph Siffert,switzerland,0,2,6,2,68.0,100,96,1962.0,1971.0,10.0,10.0,2.08,6.25,2.0,0,40,30,6,76,0.0
+jo-vonlanthen,Jo Vonlanthen,Joseph Vonlanthen,switzerland,0,0,0,0,0.0,1,1,1975.0,1975.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+joachim-winkelhock,Joachim Winkelhock,Joachim Winkelhock,germany,0,0,0,0,0.0,7,0,1989.0,1989.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+jochen-mass,Jochen Mass,Jochen Richard Mass,germany,0,1,8,0,71.0,114,105,1973.0,1982.0,9.0,10.0,0.95,7.62,0.0,0,20,40,0,60,0.0
+jochen-rindt,Jochen Rindt,Karl Jochen Rindt,austria,1,6,13,10,109.0,62,60,1964.0,1970.0,7.0,7.0,10.0,21.67,16.13,40,120,65,30,255,0.14285714285714285
+jody-scheckter,Jody Scheckter,Jody David Scheckter,south-africa,1,10,33,3,255.0,113,112,1972.0,1980.0,9.0,9.0,8.93,29.46,2.65,40,200,165,9,414,0.1111111111111111
+joe-fry,Joe Fry,Joseph Gibson Fry,united-kingdom,0,0,0,0,0.0,1,1,1950.0,1950.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+joe-james,Joe James,Joe James,united-states-of-america,0,0,0,0,0.0,2,2,1951.0,1952.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+joe-kelly,Joe Kelly,Joe Kelly,ireland,0,0,0,0,0.0,2,2,1950.0,1951.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+john-barber,John Barber,John David Barber,united-kingdom,0,0,0,0,0.0,1,1,1953.0,1953.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+john-campbell-jones,John Campbell-Jones,Michael John Churchill Campbell-Jones,united-kingdom,0,0,0,0,0.0,2,2,1962.0,1963.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+john-cannon,John Cannon,John Cannon,canada,0,0,0,0,0.0,1,1,1971.0,1971.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+john-cordts,John Cordts,John Cordts,canada,0,0,0,0,0.0,1,1,1969.0,1969.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+john-fitch,John Fitch,John Cooper Fitch,united-states-of-america,0,0,0,0,0.0,2,2,1953.0,1955.0,2.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+john-james,John James,John James,united-kingdom,0,0,0,0,0.0,1,1,1951.0,1951.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+john-love,John Love,John Maxwell Lineham Love,zimbabwe,0,0,1,0,6.0,10,9,1962.0,1972.0,10.0,11.0,0.0,11.11,0.0,0,0,5,0,5,0.0
+john-miles,John Miles,John Miles,united-kingdom,0,0,0,0,2.0,15,12,1969.0,1970.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+john-nicholson,John Nicholson,John Nicholson,new-zealand,0,0,0,0,0.0,2,1,1974.0,1975.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+john-rhodes,John Rhodes,John Rhodes,united-kingdom,0,0,0,0,0.0,1,1,1965.0,1965.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+john-riseley-prichard,John Riseley-Prichard,John Henry Augustin Riseley-Prichard,united-kingdom,0,0,0,0,0.0,1,1,1954.0,1954.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+john-surtees,John Surtees,John Surtees,united-kingdom,1,6,24,8,180.0,113,111,1960.0,1972.0,13.0,13.0,5.41,21.62,7.08,40,120,120,24,304,0.07692307692307693
+john-taylor,John Taylor,John Malcolm Taylor,united-kingdom,0,0,0,0,1.0,5,5,1964.0,1966.0,2.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+john-watson,John Watson,John Marshall Watson,united-kingdom,0,5,20,2,169.0,154,152,1973.0,1985.0,12.0,13.0,3.29,13.16,1.3,0,100,100,6,206,0.0
+johnnie-parsons,Johnnie Parsons,Johnnie Woodrow Parsons,united-states-of-america,0,1,1,0,12.0,9,9,1950.0,1958.0,9.0,9.0,11.11,11.11,0.0,0,20,5,0,25,0.0
+johnnie-tolan,Johnnie Tolan,Johnnie Tolan,united-states-of-america,0,0,0,0,0.0,3,3,1956.0,1958.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+johnny-boyd,Johnny Boyd,Johnny Boyd,united-states-of-america,0,0,1,0,4.0,6,6,1955.0,1960.0,6.0,6.0,0.0,16.67,0.0,0,0,5,0,5,0.0
+johnny-cecotto,Johnny Cecotto,Alberto Cecotto,venezuela,0,0,0,0,1.0,23,18,1983.0,1984.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+johnny-claes,Johnny Claes,Octave John Claes,belgium,0,0,0,0,0.0,25,23,1950.0,1955.0,5.0,6.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+johnny-dumfries,Johnny Dumfries,John Colum Crichton-Stuart,united-kingdom,0,0,0,0,3.0,16,15,1986.0,1986.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+johnny-herbert,Johnny Herbert,John Paul Herbert,united-kingdom,0,3,7,0,98.0,165,160,1989.0,2000.0,12.0,12.0,1.88,4.38,0.0,0,60,35,0,95,0.0
+johnny-mantz,Johnny Mantz,Johnny Mantz,united-states-of-america,0,0,0,0,0.0,1,1,1953.0,1953.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+johnny-mcdowell,Johnny McDowell,Johnny McDowell,united-states-of-america,0,0,0,0,0.0,3,3,1950.0,1952.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+johnny-servoz-gavin,Johnny Servoz-Gavin,Georges-Francis Servoz-Gavin,france,0,0,1,0,9.0,13,12,1967.0,1970.0,4.0,4.0,0.0,8.33,0.0,0,0,5,0,5,0.0
+johnny-thomson,Johnny Thomson,Johnny Thomson,united-states-of-america,0,0,1,1,10.0,8,8,1953.0,1960.0,8.0,8.0,0.0,12.5,12.5,0,0,5,3,8,0.0
+joie-chitwood,Joie Chitwood,George Rice Chitwood,united-states-of-america,0,0,0,0,1.0,1,1,1950.0,1950.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jolyon-palmer,Jolyon Palmer,Jolyon Carlyle Palmer,united-kingdom,0,0,0,0,9.0,37,35,2016.0,2017.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jonathan-palmer,Jonathan Palmer,Jonathan Charles Palmer,united-kingdom,0,0,0,0,14.0,88,83,1983.0,1989.0,7.0,7.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jonathan-williams,Jonathan Williams,Jonathan Williams,united-kingdom,0,0,0,0,0.0,1,1,1967.0,1967.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jordan-king,Jordan King,Jordan King,united-kingdom,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+jorge-daponte,Jorge Daponte,Jorge Alberto Daponte,argentina,0,0,0,0,0.0,2,2,1954.0,1954.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jos-verstappen,Jos Verstappen,Johannes Franciscus Verstappen,netherlands,0,0,2,0,17.0,107,106,1994.0,2003.0,8.0,10.0,0.0,1.89,0.0,0,0,10,0,10,0.0
+jose-dolhem,José Dolhem,Louis José Lucien Dolhem,france,0,0,0,0,0.0,3,1,1974.0,1974.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jose-froilan-gonzalez,José Froilán González,José Froilán González,argentina,0,2,15,3,77.64,26,26,1950.0,1960.0,9.0,11.0,7.69,57.69,11.54,0,40,75,9,124,0.0
+josef-peters,Josef Peters,Josef Peters,germany,0,0,0,0,0.0,1,1,1952.0,1952.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+juan-jover,Juan Jover,Juan Jover Sañes,spain,0,0,0,0,0.0,1,0,1951.0,1951.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+juan-manuel-bordeu,Juan Manuel Bordeu,Juan Manuel Bordeu,argentina,0,0,0,0,0.0,1,0,1961.0,1961.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+juan-manuel-fangio,Juan Manuel Fangio,Juan Manuel Fangio Déramo,argentina,5,24,35,29,277.64,51,51,1950.0,1958.0,8.0,9.0,47.06,68.63,56.86,200,480,175,87,942,0.625
+juan-pablo-montoya,Juan Pablo Montoya,Juan Pablo Montoya Roldán,colombia,0,7,30,13,307.0,95,94,2001.0,2006.0,6.0,6.0,7.45,31.91,13.68,0,140,150,39,329,0.0
+jud-larson,Jud Larson,Eugene Wesley Larson,united-states-of-america,0,0,0,0,0.0,2,2,1958.0,1959.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+jules-bianchi,Jules Bianchi,Jules Lucien André Bianchi,france,0,0,0,0,2.0,34,34,2013.0,2014.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+julian-bailey,Julian Bailey,Julian Bailey,united-kingdom,0,0,0,0,1.0,20,7,1988.0,1991.0,2.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+juri-vips,Jüri Vips,Jüri Vips,estonia,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+justin-wilson,Justin Wilson,Justin Boyd Wilson,united-kingdom,0,0,0,0,1.0,16,16,2003.0,2003.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+kamui-kobayashi,Kamui Kobayashi,Kamui Kobayashi,japan,0,0,1,0,125.0,76,75,2009.0,2014.0,5.0,6.0,0.0,1.33,0.0,0,0,5,0,5,0.0
+karl-gunther-bechem,Karl-Günther Bechem,Karl-Günther Bechem,germany,0,0,0,0,0.0,2,2,1952.0,1953.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+karl-kling,Karl Kling,Karl Kling,germany,0,0,2,0,17.0,11,11,1954.0,1955.0,2.0,2.0,0.0,18.18,0.0,0,0,10,0,10,0.0
+karl-wendlinger,Karl Wendlinger,Karl Wendlinger,austria,0,0,0,0,14.0,42,41,1991.0,1995.0,5.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+karun-chandhok,Karun Chandhok,Karun Chandhok,india,0,0,0,0,0.0,11,11,2010.0,2011.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+kazuki-nakajima,Kazuki Nakajima,Kazuki Nakajima,japan,0,0,0,0,9.0,36,36,2007.0,2009.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+kazuyoshi-hoshino,Kazuyoshi Hoshino,Kazuyoshi Hoshino,japan,0,0,0,0,0.0,2,2,1976.0,1977.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+keith-andrews,Keith Andrews,Keith Andrews,united-states-of-america,0,0,0,0,0.0,2,2,1955.0,1956.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+keith-greene,Keith Greene,Keith Greene,united-kingdom,0,0,0,0,0.0,5,3,1959.0,1962.0,4.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+keke-rosberg,Keke Rosberg,Keijo Erik Rosberg,finland,1,5,17,5,159.5,128,114,1978.0,1986.0,9.0,9.0,4.39,14.91,3.91,40,100,85,15,240,0.1111111111111111
+ken-downing,Ken Downing,Kenneth Henry Downing,united-kingdom,0,0,0,0,0.0,2,2,1952.0,1952.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+ken-kavanagh,Ken Kavanagh,Thomas Kenrick Kavanagh,australia,0,0,0,0,0.0,2,0,1958.0,1958.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+ken-richardson,Ken Richardson,William Kenneth Richardson,united-kingdom,0,0,0,0,0.0,1,0,1951.0,1951.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+ken-wharton,Ken Wharton,Ken Wharton,united-kingdom,0,0,0,0,3.0,16,15,1952.0,1955.0,4.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+kenneth-mcalpine,Kenneth McAlpine,Kenneth McAlpine,united-kingdom,0,0,0,0,0.0,7,7,1952.0,1955.0,3.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+kenny-acheson,Kenny Acheson,Kenneth Henry Acheson,united-kingdom,0,0,0,0,0.0,10,3,1983.0,1985.0,2.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+kevin-cogan,Kevin Cogan,John Cogan,united-states-of-america,0,0,0,0,0.0,2,0,1980.0,1981.0,2.0,2.0,,,0.0,0,0,0,0,0,0.0
+kevin-magnussen,Kevin Magnussen,Kevin Jan Magnussen,denmark,0,0,1,1,202.0,186,185,2014.0,2024.0,10.0,11.0,0.0,0.54,0.54,0,0,5,3,8,0.0
+kimi-antonelli,Kimi Antonelli,Andrea Kimi Antonelli,italy,0,0,1,0,78.0,17,17,2025.0,2025.0,1.0,1.0,0.0,5.88,0.0,0,0,5,0,5,0.0
+kimi-raikkonen,Kimi Räikkönen,Kimi-Matias Räikkönen,finland,1,21,103,18,1873.0,352,350,2001.0,2021.0,19.0,21.0,6.0,29.43,5.11,40,420,515,54,1029,0.05263157894736842
+kunimitsu-takahashi,Kunimitsu Takahashi,Kunimitsu Takahashi,japan,0,0,0,0,0.0,1,1,1977.0,1977.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+kurt-adolff,Kurt Adolff,Kurt Adolff,germany,0,0,0,0,0.0,1,1,1953.0,1953.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+kurt-ahrens-jr,"Kurt Ahrens, Jr.",Kurt Karl-Heinrich Ahrens,germany,0,0,0,0,0.0,4,4,1966.0,1969.0,4.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+kurt-kuhnke,Kurt Kuhnke,Kurt Kuhnke,germany,0,0,0,0,0.0,1,0,1963.0,1963.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+lamberto-leoni,Lamberto Leoni,Lamberto Leoni,italy,0,0,0,0,0.0,5,1,1977.0,1978.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+lance-macklin,Lance Macklin,Lance Noel Macklin,united-kingdom,0,0,0,0,0.0,15,13,1952.0,1955.0,4.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+lance-reventlow,Lance Reventlow,Lawrence Graf von Haugwitz-Hardenberg-Reventlow,united-states-of-america,0,0,0,0,0.0,4,1,1960.0,1960.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+lance-stroll,Lance Stroll,Lance Stroll,canada,0,0,3,1,324.0,185,182,2017.0,2025.0,9.0,9.0,0.0,1.65,0.54,0,0,15,3,18,0.0
+lando-norris,Lando Norris,Lando Norris,united-kingdom,0,9,39,13,1306.0,145,145,2019.0,2025.0,7.0,7.0,6.21,26.9,8.97,0,180,195,39,414,0.0
+larry-crockett,Larry Crockett,Larry Crockett,united-states-of-america,0,0,0,0,0.0,1,1,1954.0,1954.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+larry-perkins,Larry Perkins,Larry Clifton Perkins,australia,0,0,0,0,0.0,15,11,1974.0,1977.0,3.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+lee-wallard,Lee Wallard,Lee Wallard,united-states-of-america,0,1,1,0,9.0,2,2,1950.0,1951.0,2.0,2.0,50.0,50.0,0.0,0,20,5,0,25,0.0
+lella-lombardi,Lella Lombardi,Maria Grazia Lombardi,italy,0,0,0,0,0.5,17,12,1974.0,1976.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+len-duncan,Len Duncan,Len Duncan,united-states-of-america,0,0,0,0,0.0,1,1,1954.0,1954.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+len-sutton,Len Sutton,Len Sutton,united-states-of-america,0,0,0,0,0.0,3,3,1958.0,1960.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+leo-kinnunen,Leo Kinnunen,Leo Juhani Kinnunen,finland,0,0,0,0,0.0,6,1,1974.0,1974.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+les-leston,Les Leston,Alfred Lazarus Fingleston,united-kingdom,0,0,0,0,0.0,3,2,1956.0,1957.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+leslie-johnson,Leslie Johnson,Leslie George Johnson,united-kingdom,0,0,0,0,0.0,1,1,1950.0,1950.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+leslie-marr,Leslie Marr,Leslie Marr,united-kingdom,0,0,0,0,0.0,2,2,1954.0,1955.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+leslie-thorne,Leslie Thorne,Leslie Thorne,united-kingdom,0,0,0,0,0.0,1,1,1954.0,1954.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+lewis-hamilton,Lewis Hamilton,Lewis Carl Davidson Hamilton,united-kingdom,7,105,202,104,4983.5,373,373,2007.0,2025.0,19.0,19.0,28.15,54.16,27.88,280,2100,1010,312,3702,0.3684210526315789
+liam-lawson,Liam Lawson,Liam Lawson,new-zealand,0,0,0,0,36.0,28,28,2023.0,2025.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+lloyd-ruby,Lloyd Ruby,Lloyd Ruby,united-states-of-america,0,0,0,0,0.0,2,2,1960.0,1961.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+logan-sargeant,Logan Sargeant,Logan Hunter Sargeant,united-states-of-america,0,0,0,0,1.0,36,36,2023.0,2024.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+lorenzo-bandini,Lorenzo Bandini,Lorenzo Bandini,italy,0,1,8,1,58.0,42,42,1961.0,1967.0,7.0,7.0,2.38,19.05,2.38,0,20,40,3,63,0.0
+loris-kessel,Loris Kessel,Loris Kessel,switzerland,0,0,0,0,0.0,6,3,1976.0,1977.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+louis-chiron,Louis Chiron,Louis Alexandre Chiron,monaco,0,0,1,0,4.0,19,15,1950.0,1958.0,6.0,9.0,0.0,6.67,0.0,0,0,5,0,5,0.0
+louis-rosier,Louis Rosier,Louis Rosier,france,0,0,2,0,18.0,38,38,1950.0,1956.0,7.0,7.0,0.0,5.26,0.0,0,0,10,0,10,0.0
+luca-badoer,Luca Badoer,Luca Badoer,italy,0,0,0,0,0.0,58,50,1993.0,2009.0,5.0,17.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+lucas-di-grassi,Lucas di Grassi,Lucas Tucci di Grassi,brazil,0,0,0,0,0.0,19,18,2010.0,2010.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+luciano-burti,Luciano Burti,Luciano Pucci Burti,brazil,0,0,0,0,0.0,15,15,2000.0,2001.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+lucien-bianchi,Lucien Bianchi,Luciano Bianchi,belgium,0,0,1,0,6.0,19,17,1959.0,1968.0,7.0,10.0,0.0,5.88,0.0,0,0,5,0,5,0.0
+ludovico-scarfiotti,Ludovico Scarfiotti,Ludovico Scarfiotti,italy,0,1,1,0,17.0,12,10,1963.0,1968.0,6.0,6.0,10.0,10.0,0.0,0,20,5,0,25,0.0
+ludwig-fischer,Ludwig Fischer,Ludwig Fischer,germany,0,0,0,0,0.0,1,0,1952.0,1952.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+luigi-fagioli,Luigi Fagioli,Luigi Cristiano Fagioli,italy,0,1,6,0,32.0,7,7,1950.0,1951.0,2.0,2.0,14.29,85.71,0.0,0,20,30,0,50,0.0
+luigi-musso,Luigi Musso,Luigi Musso,italy,0,1,7,0,44.0,25,24,1953.0,1958.0,6.0,6.0,4.17,29.17,0.0,0,20,35,0,55,0.0
+luigi-piotti,Luigi Piotti,Luigi Piotti,italy,0,0,0,0,0.0,9,5,1955.0,1958.0,4.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+luigi-taramazzo,Luigi Taramazzo,Luigi Taramazzo,italy,0,0,0,0,0.0,1,0,1958.0,1958.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+luigi-villoresi,Luigi Villoresi,Luigi Villoresi,italy,0,0,8,0,49.0,33,31,1950.0,1956.0,7.0,7.0,0.0,25.81,0.0,0,0,40,0,40,0.0
+luis-perez-sala,Luis Pérez-Sala,Luis Pérez-Sala Valls-Taberner,spain,0,0,0,0,1.0,32,26,1988.0,1989.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+luiz-bueno,Luiz Bueno,Luiz Pereira Bueno,brazil,0,0,0,0,0.0,1,1,1973.0,1973.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+luiz-razia,Luiz Razia,Luiz Tadeu Razia Filho,brazil,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+luke-browning,Luke Browning,Luke Browning,united-kingdom,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+luki-botha,Luki Botha,Lukas Botha,south-africa,0,0,0,0,0.0,1,1,1967.0,1967.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+ma-qinghua,Qing Hua Ma,Qing Hua Ma,china,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+mack-hellings,Mack Hellings,Ronald Hellings,united-states-of-america,0,0,0,0,0.0,2,2,1950.0,1951.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+manfred-winkelhock,Manfred Winkelhock,Manfred Winkelhock,germany,0,0,0,0,2.0,56,47,1980.0,1985.0,5.0,6.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+manny-ayulo,Manny Ayulo,Manuel Leaonedas Ayulo,united-states-of-america,0,0,1,0,2.0,4,4,1951.0,1954.0,4.0,4.0,0.0,25.0,0.0,0,0,5,0,5,0.0
+marc-gene,Marc Gené,Marc Gené i Guerrero,spain,0,0,0,0,5.0,36,36,1999.0,2004.0,4.0,6.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+marc-surer,Marc Surer,Marc Surer,switzerland,0,0,0,0,17.0,88,82,1979.0,1986.0,8.0,8.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+marcel-balsa,Marcel Balsa,Marcel Lucien Balsa,france,0,0,0,0,0.0,1,1,1952.0,1952.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+marco-apicella,Marco Apicella,Marco Apicella,italy,0,0,0,0,0.0,1,1,1993.0,1993.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+marcus-ericsson,Marcus Ericsson,Marcus Ericsson,sweden,0,0,0,0,18.0,97,97,2014.0,2018.0,5.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+maria-teresa-de-filippis,Maria Teresa de Filippis,Maria Teresa de Filippis,italy,0,0,0,0,0.0,5,3,1958.0,1959.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+mario-andretti,Mario Andretti,Mario Gabriele Andretti,united-states-of-america,1,12,19,18,180.0,131,128,1968.0,1982.0,14.0,15.0,9.38,14.84,13.74,40,240,95,54,429,0.07142857142857142
+mario-de-araujo-cabral,Mário de Araújo Cabral,Mário Veloso de Araújo Cabral,portugal,0,0,0,0,0.0,5,4,1959.0,1964.0,4.0,6.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+mark-blundell,Mark Blundell,Mark Blundell,united-kingdom,0,0,3,0,32.0,63,61,1991.0,1995.0,4.0,5.0,0.0,4.92,0.0,0,0,15,0,15,0.0
+mark-donohue,Mark Donohue,Mark Neary Donohue Jr.,united-states-of-america,0,0,1,0,8.0,16,14,1971.0,1975.0,3.0,5.0,0.0,7.14,0.0,0,0,5,0,5,0.0
+mark-webber,Mark Webber,Mark Alan Webber,australia,0,9,42,13,1047.5,217,215,2002.0,2013.0,12.0,12.0,4.19,19.53,5.99,0,180,210,39,429,0.0
+markus-winkelhock,Markus Winkelhock,Markus Winkelhock,germany,0,0,0,0,0.0,1,1,2007.0,2007.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+marshall-teague,Marshall Teague,Marshall Pleasant Teague,united-states-of-america,0,0,0,0,0.0,3,3,1953.0,1957.0,3.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+martin-brundle,Martin Brundle,Martin John Brundle,united-kingdom,0,0,9,0,98.0,165,160,1984.0,1996.0,12.0,13.0,0.0,5.62,0.0,0,0,45,0,45,0.0
+martin-donnelly,Martin Donnelly,Hugh Peter Martin Donnelly,united-kingdom,0,0,0,0,0.0,15,14,1989.0,1990.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+masahiro-hasemi,Masahiro Hasemi,Masahiro Hasemi,japan,0,0,0,0,0.0,1,1,1976.0,1976.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+masami-kuwashima,Masami Kuwashima,Masami Kuwashima,japan,0,0,0,0,0.0,1,0,1976.0,1976.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+massimo-natili,Massimo Natili,Massimo Natili,italy,0,0,0,0,0.0,2,1,1961.0,1961.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+masten-gregory,Masten Gregory,Masten Gregory,united-states-of-america,0,0,3,0,21.0,43,38,1957.0,1965.0,8.0,9.0,0.0,7.89,0.0,0,0,15,0,15,0.0
+matteo-bobbi,Matteo Bobbi,Matteo Bobbi,italy,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+mauri-rose,Mauri Rose,Maurice Rose,united-states-of-america,0,0,1,0,4.0,2,2,1950.0,1951.0,2.0,2.0,0.0,50.0,0.0,0,0,5,0,5,0.0
+maurice-trintignant,Maurice Trintignant,Maurice Bienvenu Jean Paul Trintignant,france,0,2,9,0,72.33,84,82,1950.0,1964.0,15.0,15.0,2.44,10.98,0.0,0,40,45,0,85,0.0
+mauricio-gugelmin,Maurício Gugelmin,Maurício Gugelmin,brazil,0,0,1,0,10.0,80,74,1988.0,1992.0,5.0,5.0,0.0,1.35,0.0,0,0,5,0,5,0.0
+mauro-baldi,Mauro Baldi,Mauro Baldi,italy,0,0,0,0,5.0,41,36,1982.0,1985.0,4.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+max-chilton,Max Chilton,Maximilian Alexander Chilton,united-kingdom,0,0,0,0,0.0,35,35,2013.0,2014.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+max-de-terra,Max de Terra,Max de Terra,switzerland,0,0,0,0,0.0,2,2,1952.0,1953.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+max-jean,Max Jean,Max Jean,france,0,0,0,0,0.0,1,1,1971.0,1971.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+max-papis,Max Papis,Massimiliano Papis,italy,0,0,0,0,0.0,7,7,1995.0,1995.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+max-verstappen,Max Verstappen,Max Emilian Verstappen,netherlands,4,67,120,46,3278.5,226,226,2015.0,2025.0,11.0,11.0,29.65,53.1,20.35,160,1340,600,138,2238,0.36363636363636365
+michael-ammermuller,Michael Ammermüller,Michael Ammermüller,germany,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+michael-andretti,Michael Andretti,Michael Mario Andretti,united-states-of-america,0,0,1,0,7.0,13,13,1993.0,1993.0,1.0,1.0,0.0,7.69,0.0,0,0,5,0,5,0.0
+michael-bartels,Michael Bartels,Michael Bartels,germany,0,0,0,0,0.0,4,0,1991.0,1991.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+michael-bleekemolen,Michael Bleekemolen,Michael Bleekemolen,netherlands,0,0,0,0,0.0,5,1,1977.0,1978.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+michael-may,Michael May,Michael May,switzerland,0,0,0,0,0.0,3,2,1961.0,1961.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+michael-schumacher,Michael Schumacher,Michael Schumacher,germany,7,91,155,68,1566.0,308,306,1991.0,2012.0,19.0,22.0,29.74,50.65,22.08,280,1820,775,204,3079,0.3684210526315789
+michel-leclere,Michel Leclère,Michel Leclère,france,0,0,0,0,0.0,8,7,1975.0,1976.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+michele-alboreto,Michele Alboreto,Michele Alboreto,italy,0,5,23,2,186.5,215,194,1981.0,1994.0,14.0,14.0,2.58,11.86,0.93,0,100,115,6,221,0.0
+mick-schumacher,Mick Schumacher,Mick Schumacher,germany,0,0,0,0,12.0,44,43,2021.0,2022.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+miguel-angel-guerra,Miguel Ángel Guerra,Miguel Ángel Guerra,argentina,0,0,0,0,0.0,4,1,1981.0,1981.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+mika-hakkinen,Mika Häkkinen,Mika Pauli Häkkinen,finland,2,20,51,26,420.0,165,161,1991.0,2001.0,11.0,11.0,12.42,31.68,15.76,80,400,255,78,813,0.18181818181818182
+mika-salo,Mika Salo,Mika Juhani Salo,finland,0,0,2,0,33.0,111,109,1994.0,2002.0,8.0,9.0,0.0,1.83,0.0,0,0,10,0,10,0.0
+mike-beuttler,Mike Beuttler,Michael Simon Brindley Bream Beuttler,united-kingdom,0,0,0,0,0.0,29,28,1971.0,1973.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+mike-fisher,Mike Fisher,Michael J. Fisher,united-states-of-america,0,0,0,0,0.0,2,2,1967.0,1967.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+mike-hailwood,Mike Hailwood,Stanley Michael Bailey Hailwood,united-kingdom,0,0,2,0,29.0,50,50,1963.0,1974.0,7.0,12.0,0.0,4.0,0.0,0,0,10,0,10,0.0
+mike-harris,Mike Harris,Mike Harris,south-africa,0,0,0,0,0.0,1,1,1962.0,1962.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+mike-hawthorn,Mike Hawthorn,John Michael Hawthorn,united-kingdom,1,3,18,4,127.64,47,45,1952.0,1958.0,7.0,7.0,6.67,40.0,8.51,40,60,90,12,202,0.14285714285714285
+mike-macdowel,Mike MacDowel,Michael George Hartwell MacDowel,united-kingdom,0,0,0,0,0.0,1,1,1957.0,1957.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+mike-magill,Mike Magill,Charles Michael Magill,united-states-of-america,0,0,0,0,0.0,3,3,1957.0,1959.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+mike-nazaruk,Mike Nazaruk,Mike Nazaruk,united-states-of-america,0,0,1,0,8.0,3,3,1951.0,1954.0,3.0,4.0,0.0,33.33,0.0,0,0,5,0,5,0.0
+mike-parkes,Mike Parkes,Michael Johnson Parkes,united-kingdom,0,0,2,1,14.0,7,6,1959.0,1967.0,3.0,9.0,0.0,33.33,14.29,0,0,10,3,13,0.0
+mike-sparken,Mike Sparken,Michel Poberejsky,france,0,0,0,0,0.0,1,1,1955.0,1955.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+mike-spence,Mike Spence,Michael Henderson Spence,united-kingdom,0,0,1,0,27.0,37,36,1963.0,1968.0,6.0,6.0,0.0,2.78,0.0,0,0,5,0,5,0.0
+mike-taylor,Mike Taylor,Mike Taylor,united-kingdom,0,0,0,0,0.0,2,1,1959.0,1960.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+mike-thackwell,Mike Thackwell,Mike Thackwell,new-zealand,0,0,0,0,0.0,5,3,1980.0,1984.0,2.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+mike-wilds,Mike Wilds,Mike Wilds,united-kingdom,0,0,0,0,0.0,8,3,1974.0,1976.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+mikko-kozarowitzky,Mikko Kozarowitzky,Michael Kozarowitzky,finland,0,0,0,0,0.0,2,0,1977.0,1977.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+moises-solana,Moisés Solana,Moisés Solana Arciniega,mexico,0,0,0,0,0.0,8,8,1963.0,1968.0,6.0,6.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+myron-fohr,Myron Fohr,Myron W. Fohr,united-states-of-america,0,0,0,0,0.0,1,1,1950.0,1950.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+nanni-galli,Nanni Galli,Giovanni Giuseppe Gilberto Galli,italy,0,0,0,0,0.0,20,17,1970.0,1973.0,4.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+naoki-hattori,Naoki Hattori,Naoki Hattori,japan,0,0,0,0,0.0,2,0,1991.0,1991.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+naoki-yamamoto,Naoki Yamamoto,Naoki Yamamoto,japan,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+narain-karthikeyan,Narain Karthikeyan,Kumar Ram Narain Karthikeyan,india,0,0,0,0,5.0,47,46,2005.0,2012.0,3.0,8.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+nasif-estefano,Nasif Estéfano,Nasif Moisés Estéfano,argentina,0,0,0,0,0.0,2,1,1960.0,1962.0,2.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+neel-jani,Neel Jani,Neel Jani,switzerland,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+nello-pagani,Nello Pagani,Cirillo Pagani,italy,0,0,0,0,0.0,1,1,1950.0,1950.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+nelson-piquet-jr,Nelson Piquet Jr.,Nelson Ângelo Tamsma Piquet Souto Maior,brazil,0,0,1,0,19.0,28,28,2008.0,2009.0,2.0,2.0,0.0,3.57,0.0,0,0,5,0,5,0.0
+nelson-piquet,Nelson Piquet,Nelson Piquet Souto Maior,brazil,3,23,60,24,485.5,207,203,1978.0,1991.0,14.0,14.0,11.33,29.56,11.59,120,460,300,72,952,0.21428571428571427
+neville-lederle,Neville Lederle,Neville Lederle,south-africa,0,0,0,0,1.0,2,1,1962.0,1965.0,2.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+nicholas-latifi,Nicholas Latifi,Nicholas Latifi,canada,0,0,0,0,9.0,61,61,2020.0,2022.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+nick-heidfeld,Nick Heidfeld,Nick Lars Heidfeld,germany,0,0,13,1,259.0,185,183,2000.0,2011.0,12.0,12.0,0.0,7.1,0.54,0,0,65,3,68,0.0
+nico-hulkenberg,Nico Hülkenberg,Nicolas Hülkenberg,germany,0,0,1,1,608.0,247,243,2010.0,2025.0,14.0,16.0,0.0,0.41,0.4,0,0,5,3,8,0.0
+nico-rosberg,Nico Rosberg,Nico Erik Rosberg,germany,1,23,57,30,1594.5,206,206,2006.0,2016.0,11.0,11.0,11.17,27.67,14.56,40,460,285,90,875,0.09090909090909091
+nicola-larini,Nicola Larini,Nicola Larini,italy,0,0,1,0,7.0,75,49,1987.0,1997.0,8.0,11.0,0.0,2.04,0.0,0,0,5,0,5,0.0
+nicolas-kiesa,Nicolas Kiesa,Nicolas Kiesa,denmark,0,0,0,0,0.0,5,5,2003.0,2003.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+nigel-mansell,Nigel Mansell,Nigel Ernest James Mansell,united-kingdom,1,31,59,32,482.0,191,187,1980.0,1995.0,15.0,16.0,16.58,31.55,16.75,40,620,295,96,1051,0.06666666666666667
+niki-lauda,Niki Lauda,Andreas Nikolaus Lauda,austria,3,25,54,24,420.5,176,171,1971.0,1985.0,13.0,15.0,14.62,31.58,13.64,120,500,270,72,962,0.23076923076923078
+nikita-mazepin,Nikita Mazepin,Nikita Dmitryevich Mazepin,russia,0,0,0,0,0.0,22,21,2021.0,2021.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+nino-farina,Nino Farina,Giuseppe Antonio Farina,italy,1,5,19,5,127.33,34,33,1950.0,1955.0,6.0,6.0,15.15,57.58,14.71,40,100,95,15,250,0.16666666666666666
+nino-vaccarella,Nino Vaccarella,Nino Vaccarella,italy,0,0,0,0,0.0,5,4,1961.0,1965.0,3.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+norberto-fontana,Norberto Fontana,Norberto Edgardo Fontana,argentina,0,0,0,0,0.0,4,4,1997.0,1997.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+noritake-takahara,Noritake Takahara,Noritake Takahara,japan,0,0,0,0,0.0,2,2,1976.0,1977.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+nyck-de-vries,Nyck de Vries,Nyck de Vries,netherlands,0,0,0,0,2.0,11,11,2022.0,2023.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+oliver-bearman,Oliver Bearman,Oliver James Bearman,united-kingdom,0,0,0,0,23.0,20,20,2024.0,2025.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+olivier-beretta,Olivier Beretta,Olivier Beretta,monaco,0,0,0,0,0.0,10,10,1994.0,1994.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+olivier-gendebien,Olivier Gendebien,Olivier Gendebien,belgium,0,0,2,0,18.0,15,14,1956.0,1961.0,5.0,6.0,0.0,14.29,0.0,0,0,10,0,10,0.0
+olivier-grouillard,Olivier Grouillard,Olivier Grouillard,france,0,0,0,0,1.0,62,41,1989.0,1992.0,4.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+olivier-panis,Olivier Panis,Olivier Panis,france,0,1,5,0,76.0,158,157,1994.0,2004.0,10.0,11.0,0.64,3.18,0.0,0,20,25,0,45,0.0
+onofre-marimon,Onofre Marimón,Onofre Agustín Marimón,argentina,0,0,2,0,8.14,12,11,1951.0,1954.0,3.0,4.0,0.0,18.18,0.0,0,0,10,0,10,0.0
+oscar-alfredo-galvez,Oscar Alfredo Gálvez,Oscar Alfredo Gálvez,argentina,0,0,0,0,2.0,1,1,1953.0,1953.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+oscar-gonzalez,Óscar González,Óscar Mario González,uruguay,0,0,0,0,0.0,1,1,1956.0,1956.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+oscar-larrauri,Oscar Larrauri,Oscar Rubén Larrauri,argentina,0,0,0,0,0.0,21,8,1988.0,1989.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+oscar-piastri,Oscar Piastri,Oscar Piastri,australia,0,9,24,5,713.0,63,63,2023.0,2025.0,3.0,3.0,14.29,38.1,7.94,0,180,120,15,315,0.0
+oswald-karch,Oswald Karch,Oswald Karch,germany,0,0,0,0,0.0,1,1,1953.0,1953.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+otto-stuppacher,Otto Stuppacher,Otto Stuppacher,austria,0,0,0,0,0.0,3,0,1976.0,1976.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+ottorino-volonterio,Ottorino Volonterio,Ottorino Volonterio,switzerland,0,0,0,0,0.0,3,3,1954.0,1957.0,3.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+pablo-birger,Pablo Birger,Pablo Birger,argentina,0,0,0,0,0.0,2,2,1953.0,1955.0,2.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+paco-godia,Paco Godia,Francisco Godia Sales,spain,0,0,0,0,6.0,14,13,1951.0,1958.0,5.0,8.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+paddy-driver,Paddy Driver,Paddy Driver,south-africa,0,0,0,0,0.0,2,1,1963.0,1974.0,2.0,12.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+paolo-barilla,Paolo Barilla,Paolo Barilla,italy,0,0,0,0,0.0,15,9,1989.0,1990.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+pascal-fabre,Pascal Fabre,Pascal Fabre,france,0,0,0,0,0.0,14,11,1987.0,1987.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+pascal-wehrlein,Pascal Wehrlein,Pascal Wehrlein,germany,0,0,0,0,6.0,39,39,2016.0,2017.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+pastor-maldonado,Pastor Maldonado,Pastor Rafael Maldonado Motta,venezuela,0,1,1,1,76.0,96,95,2011.0,2015.0,5.0,5.0,1.05,1.05,1.04,0,20,5,3,28,0.0
+pat-flaherty,Pat Flaherty,"George Francis Flaherty, Jr.",united-states-of-america,0,1,1,1,8.0,6,6,1950.0,1959.0,6.0,10.0,16.67,16.67,16.67,0,20,5,3,28,0.0
+pat-oconnor,Pat O'Connor,Pat O'Connor,united-states-of-america,0,0,0,1,0.0,5,5,1954.0,1958.0,5.0,5.0,0.0,0.0,20.0,0,0,0,3,3,0.0
+patricio-oward,Patricio O'Ward,Patricio O'Ward Junco,mexico,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+patrick-depailler,Patrick Depailler,Patrick André Eugène Joseph Depailler,france,0,2,19,1,141.0,95,95,1972.0,1980.0,8.0,9.0,2.11,20.0,1.05,0,40,95,3,138,0.0
+patrick-friesacher,Patrick Friesacher,Patrick Friesacher,austria,0,0,0,0,3.0,11,11,2005.0,2005.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+patrick-gaillard,Patrick Gaillard,Patrick Gaillard,france,0,0,0,0,0.0,5,2,1979.0,1979.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+patrick-neve,Patrick Nève,Patrick Marie Ghislain Pierre Simon Stanislas Nève de Mévergnies,belgium,0,0,0,0,0.0,14,10,1976.0,1978.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+patrick-tambay,Patrick Tambay,Patrick Daniel Tambay,france,0,2,11,5,103.0,123,113,1977.0,1986.0,9.0,10.0,1.77,9.73,4.07,0,40,55,15,110,0.0
+paul-aron,Paul Aron,Paul Aron,estonia,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+paul-belmondo,Paul Belmondo,Paul Alexandre Belmondo,france,0,0,0,0,0.0,27,7,1992.0,1994.0,2.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+paul-di-resta,Paul di Resta,Paul di Resta,united-kingdom,0,0,0,0,121.0,59,59,2011.0,2017.0,4.0,7.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+paul-emery,Paul Emery,Paul Emery,united-kingdom,0,0,0,0,0.0,2,1,1956.0,1958.0,2.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+paul-england,Paul England,Paul England,australia,0,0,0,0,0.0,1,1,1957.0,1957.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+paul-frere,Paul Frère,Paul Frère,belgium,0,0,1,0,11.0,11,11,1952.0,1956.0,5.0,5.0,0.0,9.09,0.0,0,0,5,0,5,0.0
+paul-goldsmith,Paul Goldsmith,Paul Goldsmith,united-states-of-america,0,0,1,0,6.0,3,3,1958.0,1960.0,3.0,3.0,0.0,33.33,0.0,0,0,5,0,5,0.0
+paul-hawkins,Paul Hawkins,Robert Paul Hawkins,australia,0,0,0,0,0.0,3,3,1965.0,1965.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+paul-pietsch,Paul Pietsch,Paul Pietsch,germany,0,0,0,0,0.0,3,3,1950.0,1952.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+paul-russo,Paul Russo,Paul Russo,united-states-of-america,0,0,1,0,8.5,8,8,1950.0,1959.0,8.0,10.0,0.0,12.5,0.0,0,0,5,0,5,0.0
+pedro-chaves,Pedro Chaves,Pedro António Matos Chaves,portugal,0,0,0,0,0.0,13,0,1991.0,1991.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+pedro-de-la-rosa,Pedro de la Rosa,Pedro Martínez de la Rosa,spain,0,0,1,0,35.0,107,104,1999.0,2012.0,9.0,14.0,0.0,0.96,0.0,0,0,5,0,5,0.0
+pedro-diniz,Pedro Diniz,Pedro Paulo Falleiros dos Santos Diniz,brazil,0,0,0,0,10.0,99,98,1995.0,2000.0,6.0,6.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+pedro-lamy,Pedro Lamy,José Pedro Mourão Lamy Viçoso,portugal,0,0,0,0,1.0,32,32,1993.0,1996.0,4.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+pedro-rodriguez,Pedro Rodríguez,Pedro Rodríguez de la Vega,mexico,0,2,7,0,71.0,55,55,1963.0,1971.0,9.0,9.0,3.64,12.73,0.0,0,40,35,0,75,0.0
+perry-mccarthy,Perry McCarthy,Perry McCarthy,united-kingdom,0,0,0,0,0.0,7,0,1992.0,1992.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+pete-lovely,Pete Lovely,Gerard Carlton Lovely,united-states-of-america,0,0,0,0,0.0,11,7,1959.0,1971.0,5.0,13.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+peter-arundell,Peter Arundell,Peter Arundell,united-kingdom,0,0,2,0,12.0,13,11,1963.0,1966.0,3.0,4.0,0.0,18.18,0.0,0,0,10,0,10,0.0
+peter-ashdown,Peter Ashdown,Peter Hawthorn Ashdown,united-kingdom,0,0,0,0,0.0,1,1,1959.0,1959.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+peter-broeker,Peter Broeker,Peter Broeker,canada,0,0,0,0,0.0,1,1,1963.0,1963.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+peter-collins,Peter Collins,Peter John Collins,united-kingdom,0,3,9,0,47.0,35,32,1952.0,1958.0,7.0,7.0,9.38,28.12,0.0,0,60,45,0,105,0.0
+peter-de-klerk,Peter de Klerk,Peter de Klerk,south-africa,0,0,0,0,0.0,4,4,1963.0,1970.0,4.0,8.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+peter-gethin,Peter Gethin,Peter Kenneth Gethin,united-kingdom,0,1,1,0,11.0,31,30,1970.0,1974.0,5.0,5.0,3.33,3.33,0.0,0,20,5,0,25,0.0
+peter-hirt,Peter Hirt,Peter Hirt,switzerland,0,0,0,0,0.0,5,5,1951.0,1953.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+peter-revson,Peter Revson,Peter Jeffrey Revson,united-states-of-america,0,2,8,1,61.0,32,30,1964.0,1974.0,5.0,11.0,6.67,26.67,3.12,0,40,40,3,83,0.0
+peter-ryan,Peter Ryan,Peter B. Ryan,canada,0,0,0,0,0.0,1,1,1961.0,1961.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+peter-walker,Peter Walker,Peter Douglas Conyers Walker,united-kingdom,0,0,0,0,0.0,4,4,1950.0,1955.0,3.0,6.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+peter-westbury,Peter Westbury,Peter Westbury,united-kingdom,0,0,0,0,0.0,2,1,1969.0,1970.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+peter-whitehead,Peter Whitehead,Peter Nield Whitehead,united-kingdom,0,0,1,0,4.0,12,10,1950.0,1954.0,5.0,5.0,0.0,10.0,0.0,0,0,5,0,5,0.0
+phil-cade,Phil Cade,Phil Cade,united-states-of-america,0,0,0,0,0.0,1,0,1959.0,1959.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+phil-hill,Phil Hill,"Philip Toll Hill, Jr.",united-states-of-america,1,3,16,6,98.0,52,48,1958.0,1966.0,8.0,9.0,6.25,33.33,11.54,40,60,80,18,198,0.125
+philip-fotheringham-parker,Philip Fotheringham-Parker,Philip Fotheringham-Parker,united-kingdom,0,0,0,0,0.0,1,1,1951.0,1951.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+philippe-adams,Philippe Adams,Philippe Adams,belgium,0,0,0,0,0.0,2,2,1994.0,1994.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+philippe-alliot,Philippe Alliot,Philippe Alliot,france,0,0,0,0,7.0,116,110,1984.0,1994.0,9.0,11.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+philippe-etancelin,Philippe Étancelin,Philippe Étancelin,france,0,0,0,0,3.0,12,12,1950.0,1952.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+philippe-streiff,Philippe Streiff,Philippe Streiff,france,0,0,1,0,11.0,54,54,1984.0,1988.0,5.0,5.0,0.0,1.85,0.0,0,0,5,0,5,0.0
+piercarlo-ghinzani,Piercarlo Ghinzani,Piercarlo Ghinzani,italy,0,0,0,0,2.0,111,72,1981.0,1989.0,8.0,9.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+pierluigi-martini,Pierluigi Martini,Pierluigi Martini,italy,0,0,0,0,18.0,124,117,1984.0,1995.0,10.0,12.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+piero-carini,Piero Carini,Piero Carini,italy,0,0,0,0,0.0,3,3,1952.0,1953.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+piero-drogo,Piero Drogo,Piero Drogo,italy,0,0,0,0,0.0,1,1,1960.0,1960.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+piero-dusio,Piero Dusio,Piero Dusio,italy,0,0,0,0,0.0,1,0,1952.0,1952.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+piero-scotti,Piero Scotti,Piero Scotti,italy,0,0,0,0,0.0,1,1,1956.0,1956.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+piero-taruffi,Piero Taruffi,Piero Taruffi,italy,0,1,5,0,41.0,19,18,1950.0,1956.0,6.0,7.0,5.56,27.78,0.0,0,20,25,0,45,0.0
+pierre-gasly,Pierre Gasly,Pierre Gasly,france,0,1,5,0,456.0,171,170,2017.0,2025.0,9.0,9.0,0.59,2.94,0.0,0,20,25,0,45,0.0
+pierre-henri-raphanel,Pierre-Henri Raphanel,Pierre-Henri Raphanel,france,0,0,0,0,0.0,17,1,1988.0,1989.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+pierre-levegh,Pierre Levegh,Pierre Eugène Alfred Bouillin,france,0,0,0,0,0.0,6,6,1950.0,1951.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+piers-courage,Piers Courage,Piers Raymond Courage,united-kingdom,0,0,2,0,20.0,30,28,1966.0,1970.0,5.0,5.0,0.0,7.14,0.0,0,0,10,0,10,0.0
+pietro-fittipaldi,Pietro Fittipaldi,Pietro Fittipaldi da Cruz,brazil,0,0,0,0,0.0,2,2,2020.0,2020.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+raffaele-marciello,Raffaele Marciello,Raffaele Marciello,italy,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+ralf-schumacher,Ralf Schumacher,Ralf Schumacher,germany,0,6,27,6,329.0,180,180,1997.0,2007.0,11.0,11.0,3.33,15.0,3.33,0,120,135,18,273,0.0
+ralph-firman,Ralph Firman,Ralph David Firman Jr.,ireland,0,0,0,0,1.0,14,14,2003.0,2003.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+raul-boesel,Raul Boesel,Raul de Mesquita Boesel,brazil,0,0,0,0,0.0,30,23,1982.0,1983.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+ray-crawford,Ray Crawford,Ray Crawford,united-states-of-america,0,0,0,0,0.0,3,3,1955.0,1959.0,3.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+raymond-sommer,Raymond Sommer,Raymond Sommer,france,0,0,0,0,3.0,5,5,1950.0,1950.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+red-amick,Red Amick,Richard Amick,united-states-of-america,0,0,0,0,0.0,2,2,1959.0,1960.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+reg-parnell,Reg Parnell,Reginald Parnell,united-kingdom,0,0,1,0,9.0,7,6,1950.0,1954.0,4.0,5.0,0.0,16.67,0.0,0,0,5,0,5,0.0
+reine-wisell,Reine Wisell,Reine Wisell,sweden,0,0,1,0,13.0,23,22,1970.0,1974.0,5.0,5.0,0.0,4.55,0.0,0,0,5,0,5,0.0
+renato-pirocchi,Renato Pirocchi,Renato Pirocchi,italy,0,0,0,0,0.0,1,1,1961.0,1961.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+rene-arnoux,René Arnoux,René Alexandre Arnoux,france,0,7,22,18,181.0,164,149,1978.0,1989.0,12.0,12.0,4.7,14.77,10.98,0,140,110,54,304,0.0
+renzo-zorzi,Renzo Zorzi,Renzo Zorzi,italy,0,0,0,0,1.0,7,7,1975.0,1977.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+ricardo-londono,Ricardo Londoño,Ricardo Londoño-Bridge,colombia,0,0,0,0,0.0,1,0,1981.0,1981.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+ricardo-rodriguez,Ricardo Rodríguez,Ricardo Valentín Rodríguez de la Vega,mexico,0,0,0,0,4.0,6,5,1961.0,1962.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+ricardo-rosset,Ricardo Rosset,Ricardo Rosset,brazil,0,0,0,0,0.0,33,26,1996.0,1998.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+ricardo-zonta,Ricardo Zonta,Ricardo Luiz Zonta,brazil,0,0,0,0,3.0,38,36,1999.0,2005.0,5.0,7.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+ricardo-zunino,Ricardo Zunino,Ricardo Héctor Zunino,argentina,0,0,0,0,0.0,11,10,1979.0,1981.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+riccardo-paletti,Riccardo Paletti,Riccardo Paletti,italy,0,0,0,0,0.0,8,2,1982.0,1982.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+riccardo-patrese,Riccardo Patrese,Riccardo Gabriele Patrese,italy,0,6,37,8,281.0,257,256,1977.0,1993.0,17.0,17.0,2.34,14.45,3.11,0,120,185,24,329,0.0
+richard-attwood,Richard Attwood,Richard James David Attwood,united-kingdom,0,0,1,0,11.0,18,17,1964.0,1969.0,5.0,6.0,0.0,5.88,0.0,0,0,5,0,5,0.0
+richard-robarts,Richard Robarts,Richard Robarts,united-kingdom,0,0,0,0,0.0,4,3,1974.0,1974.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+richie-ginther,Richie Ginther,Paul Richard Ginther,united-states-of-america,0,1,14,0,107.0,54,52,1960.0,1967.0,8.0,8.0,1.92,26.92,0.0,0,20,70,0,90,0.0
+rikky-von-opel,Rikky von Opel,Frederick von Opel,liechtenstein,0,0,0,0,0.0,14,10,1973.0,1974.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+rio-haryanto,Rio Haryanto,Rio Haryanto,indonesia,0,0,0,0,0.0,12,12,2016.0,2016.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+rob-schroeder,Rob Schroeder,Robert Schroeder,united-states-of-america,0,0,0,0,0.0,1,1,1962.0,1962.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+robert-doornbos,Robert Doornbos,Robert Michael Doornbos,netherlands,0,0,0,0,0.0,11,11,2005.0,2006.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+robert-kubica,Robert Kubica,Robert Józef Kubica,poland,0,1,12,1,274.0,99,99,2006.0,2021.0,7.0,16.0,1.01,12.12,1.01,0,20,60,3,83,0.0
+robert-la-caze,Robert La Caze,Robert La Caze,morocco,0,0,0,0,0.0,1,1,1958.0,1958.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+robert-manzon,Robert Manzon,Robert Manzon,france,0,0,2,0,16.0,29,28,1950.0,1956.0,7.0,7.0,0.0,7.14,0.0,0,0,10,0,10,0.0
+robert-obrien,Robert O'Brien,Robert O'Brien,united-states-of-america,0,0,0,0,0.0,1,1,1952.0,1952.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+robert-shwartzman,Robert Shwartzman,Robert Mikhailovich Shwartzman,russia,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+robert-wickens,Robert Wickens,Robert Tyler Wickens,canada,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+roberto-bonomi,Roberto Bonomi,Roberto Wenceslao Bonomi Oliva,argentina,0,0,0,0,0.0,1,1,1960.0,1960.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+roberto-bussinello,Roberto Bussinello,Roberto Bussinello,italy,0,0,0,0,0.0,3,2,1961.0,1965.0,2.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+roberto-guerrero,Roberto Guerrero,Roberto José Guerrero Isaza,colombia,0,0,0,0,0.0,28,21,1982.0,1983.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+roberto-lippi,Roberto Lippi,Roberto Lippi,italy,0,0,0,0,0.0,3,1,1961.0,1963.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+roberto-merhi,Roberto Merhi,Roberto Merhi Muntan,spain,0,0,0,0,0.0,14,13,2015.0,2015.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+roberto-mieres,Roberto Mieres,Roberto Casimiro Mieres,argentina,0,0,0,0,13.0,17,17,1953.0,1955.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+roberto-moreno,Roberto Moreno,Roberto Pupo Moreno,brazil,0,0,1,0,15.0,75,42,1982.0,1995.0,7.0,14.0,0.0,2.38,0.0,0,0,5,0,5,0.0
+robin-frijns,Robin Frijns,Robin Frijns,netherlands,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+robin-montgomerie-charrington,Robin Montgomerie-Charrington,Robert Victor Campbell Montgomerie,united-kingdom,0,0,0,0,0.0,1,1,1952.0,1952.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+robin-widdows,Robin Widdows,Robin Michael Widdows,united-kingdom,0,0,0,0,0.0,1,1,1968.0,1968.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+rodger-ward,Rodger Ward,Rodger M. Ward,united-states-of-america,0,1,2,0,14.0,12,12,1951.0,1963.0,11.0,13.0,8.33,16.67,0.0,0,20,10,0,30,0.0
+rodney-nuckey,Rodney Nuckey,Rodney Nuckey,united-kingdom,0,0,0,0,0.0,2,1,1953.0,1954.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+rodolfo-gonzalez,Rodolfo González,Rodolfo González,venezuela,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+roelof-wunderink,Roelof Wunderink,Roelof Wunderink,netherlands,0,0,0,0,0.0,6,3,1975.0,1975.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+roger-laurent,Roger Laurent,Roger Laurent,belgium,0,0,0,0,0.0,2,2,1952.0,1952.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+roger-loyer,Roger Loyer,Roger Loyer,france,0,0,0,0,0.0,1,1,1954.0,1954.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+roger-penske,Roger Penske,Roger S. Penske,united-states-of-america,0,0,0,0,0.0,2,2,1961.0,1962.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+roger-williamson,Roger Williamson,Roger Williamson,united-kingdom,0,0,0,0,0.0,2,2,1973.0,1973.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+roland-ratzenberger,Roland Ratzenberger,Roland Ratzenberger,austria,0,0,0,0,0.0,3,1,1994.0,1994.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+rolf-stommelen,Rolf Stommelen,Rolf Johann Stommelen,germany,0,0,1,0,14.0,63,54,1969.0,1978.0,9.0,10.0,0.0,1.85,0.0,0,0,5,0,5,0.0
+romain-grosjean,Romain Grosjean,Romain Grosjean,france,0,0,10,0,391.0,181,179,2009.0,2020.0,10.0,12.0,0.0,5.59,0.0,0,0,50,0,50,0.0
+ron-flockhart,Ron Flockhart,Ron Flockhart,united-kingdom,0,0,1,0,5.0,14,13,1954.0,1960.0,6.0,7.0,0.0,7.69,0.0,0,0,5,0,5,0.0
+ronnie-bucknum,Ronnie Bucknum,Ronnie Bucknum,united-states-of-america,0,0,0,0,2.0,11,11,1964.0,1966.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+ronnie-peterson,Ronnie Peterson,Bengt Ronnie Peterson,sweden,0,10,26,14,206.0,123,123,1970.0,1978.0,9.0,9.0,8.13,21.14,11.38,0,200,130,42,372,0.0
+roy-nissany,Roy Nissany,Roy Nissany,israel,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+roy-salvadori,Roy Salvadori,Roy Francesco Salvadori,united-kingdom,0,0,2,0,19.0,50,47,1952.0,1962.0,11.0,11.0,0.0,4.26,0.0,0,0,10,0,10,0.0
+rubens-barrichello,Rubens Barrichello,Rubens Gonçalves Barrichello,brazil,0,11,68,14,658.0,326,322,1993.0,2011.0,19.0,19.0,3.42,21.12,4.29,0,220,340,42,602,0.0
+rudi-fischer,Rudi Fischer,Rudolf Fischer,switzerland,0,0,2,0,10.0,8,7,1951.0,1952.0,2.0,2.0,0.0,28.57,0.0,0,0,10,0,10,0.0
+rudolf-krause,Rudolf Krause,Rudolf Krause,germany,0,0,0,0,0.0,2,2,1952.0,1953.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+rudolf-schoeller,Rudolf Schoeller,Rudolf Schoeller,switzerland,0,0,0,0,0.0,1,1,1952.0,1952.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+rupert-keegan,Rupert Keegan,Rupert Keegan,united-kingdom,0,0,0,0,0.0,37,25,1977.0,1982.0,4.0,6.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+ryan-briscoe,Ryan Briscoe,Ryan Briscoe,australia,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+ryo-hirakawa,Ryō Hirakawa,Ryō Hirakawa,japan,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+sakon-yamamoto,Sakon Yamamoto,Sakon Yamamoto,japan,0,0,0,0,0.0,21,21,2006.0,2010.0,3.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+sam-hanks,Sam Hanks,Sam Hanks,united-states-of-america,0,1,4,0,20.0,8,8,1950.0,1957.0,8.0,8.0,12.5,50.0,0.0,0,20,20,0,40,0.0
+sam-posey,Sam Posey,Sam Posey,united-states-of-america,0,0,0,0,0.0,2,2,1971.0,1972.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+sam-tingle,Sam Tingle,Samuel Tingle,zimbabwe,0,0,0,0,0.0,5,5,1963.0,1969.0,5.0,7.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+satoru-nakajima,Satoru Nakajima,Satoru Nakajima,japan,0,0,0,0,16.0,80,74,1987.0,1991.0,5.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+satoshi-motoyama,Satoshi Motoyama,Satoshi Motoyama,japan,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+scott-speed,Scott Speed,Scott Andrew Speed,united-states-of-america,0,0,0,0,0.0,28,28,2006.0,2007.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+sean-gelael,Sean Gelael,Muhammad Sean Ricardo Gelael,indonesia,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+sebastian-vettel,Sebastian Vettel,Sebastian Vettel,germany,4,53,122,57,3098.0,300,299,2007.0,2022.0,16.0,16.0,17.73,40.8,19.0,160,1060,610,171,2001,0.25
+sebastien-bourdais,Sébastien Bourdais,Sébastien Olivier Bourdais,france,0,0,0,0,6.0,27,27,2008.0,2009.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+sebastien-buemi,Sébastien Buemi,Sébastien Olivier Buemi,switzerland,0,0,0,0,29.0,55,55,2009.0,2011.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+sergey-sirotkin,Sergey Sirotkin,Sergey Olegovich Sirotkin,russia,0,0,0,0,1.0,21,21,2018.0,2018.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+sergio-mantovani,Sergio Mantovani,Sergio Mantovani,italy,0,0,0,0,4.0,8,7,1953.0,1955.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+sergio-perez,Sergio Pérez,Sergio Pérez Mendoza,mexico,0,6,39,3,1638.0,283,281,2011.0,2024.0,14.0,14.0,2.14,13.88,1.06,0,120,195,9,324,0.0
+shinji-nakano,Shinji Nakano,Shinji Nakano,japan,0,0,0,0,2.0,33,33,1997.0,1998.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+shorty-templeman,Shorty Templeman,Clark Thomas Templeman,united-states-of-america,0,0,0,0,0.0,3,3,1955.0,1960.0,3.0,6.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+siegfried-stohr,Siegfried Stohr,Siegfried Stohr,italy,0,0,0,0,0.0,13,9,1981.0,1981.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+silvio-moser,Silvio Moser,Silvio Moser,switzerland,0,0,0,0,3.0,20,12,1966.0,1971.0,6.0,6.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+skip-barber,Skip Barber,John Barber III,united-states-of-america,0,0,0,0,0.0,6,5,1971.0,1972.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+slim-borgudd,Slim Borgudd,Karl Edward Tommy Borgudd,sweden,0,0,0,0,1.0,15,10,1981.0,1982.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+spider-webb,Spider Webb,Travis Webb,united-states-of-america,0,0,0,0,0.0,4,4,1950.0,1954.0,4.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+stefan-bellof,Stefan Bellof,Stefan Bellof,germany,0,0,0,0,4.0,22,21,1984.0,1985.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+stefan-johansson,Stefan Johansson,Stefan Nils Edwin Johansson,sweden,0,0,12,0,88.0,103,80,1980.0,1991.0,10.0,12.0,0.0,15.0,0.0,0,0,60,0,60,0.0
+stefano-modena,Stefano Modena,Stefano Modena,italy,0,0,2,0,17.0,81,70,1987.0,1992.0,6.0,6.0,0.0,2.86,0.0,0,0,10,0,10,0.0
+stephane-sarrazin,Stéphane Sarrazin,Stéphane Jean-Marc Sarrazin,france,0,0,0,0,0.0,1,1,1999.0,1999.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+stephen-south,Stephen South,Stephen South,united-kingdom,0,0,0,0,0.0,1,0,1980.0,1980.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+stirling-moss,Stirling Moss,Sir Stirling Moss,united-kingdom,0,16,24,16,186.64,67,66,1951.0,1961.0,11.0,11.0,24.24,36.36,23.88,0,320,120,48,488,0.0
+stoffel-vandoorne,Stoffel Vandoorne,Stoffel Vandoorne,belgium,0,0,0,0,26.0,42,41,2016.0,2018.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+stuart-lewis-evans,Stuart Lewis-Evans,Stuart Nigel Lewis-Evans,united-kingdom,0,0,2,2,16.0,14,14,1957.0,1958.0,2.0,2.0,0.0,14.29,14.29,0,0,10,6,16,0.0
+susie-wolff,Susie Wolff,Suzanne Wolff,united-kingdom,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+taki-inoue,Taki Inoue,Takachiho Inoue,japan,0,0,0,0,0.0,18,18,1994.0,1995.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+takuma-sato,Takuma Sato,Takuma Sato,japan,0,0,1,0,44.0,91,90,2002.0,2008.0,7.0,7.0,0.0,1.11,0.0,0,0,5,0,5,0.0
+tarso-marques,Tarso Marques,Tarso Anibal Santanna Marques,brazil,0,0,0,0,0.0,26,24,1996.0,2001.0,3.0,6.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+ted-whiteaway,Ted Whiteaway,Edward N. Whiteaway,united-kingdom,0,0,0,0,0.0,1,0,1955.0,1955.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+teddy-pilette,Teddy Pilette,Theodore Pilette,belgium,0,0,0,0,0.0,4,1,1974.0,1977.0,2.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+teo-fabi,Teo Fabi,Teodorico Fabi,italy,0,0,2,3,23.0,71,64,1982.0,1987.0,5.0,6.0,0.0,3.12,4.23,0,0,10,9,19,0.0
+theo-fitzau,Theo Fitzau,Theodor Fitzau,germany,0,0,0,0,0.0,1,1,1953.0,1953.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+theo-helfrich,Theo Helfrich,Theodor Helfrich,germany,0,0,0,0,0.0,3,3,1952.0,1954.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+theo-pourchaire,Théo Pourchaire,Théo Jérôme Julien Pourchaire,france,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+thierry-boutsen,Thierry Boutsen,Thierry Marc Boutsen,belgium,0,3,15,1,132.0,164,163,1983.0,1993.0,11.0,11.0,1.84,9.2,0.61,0,60,75,3,138,0.0
+tiago-monteiro,Tiago Monteiro,Tiago da Costa Monteiro,portugal,0,0,1,0,7.0,37,37,2005.0,2006.0,2.0,2.0,0.0,2.7,0.0,0,0,5,0,5,0.0
+tiff-needell,Tiff Needell,Timothy Needell,united-kingdom,0,0,0,0,0.0,2,1,1980.0,1980.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+tim-parnell,Tim Parnell,Reginald Harold Haslam Parnell,united-kingdom,0,0,0,0,0.0,4,2,1959.0,1963.0,3.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+tim-schenken,Tim Schenken,Timothy Theodore Schenken,australia,0,0,1,0,7.0,36,34,1970.0,1974.0,5.0,5.0,0.0,2.94,0.0,0,0,5,0,5,0.0
+timmy-mayer,Timmy Mayer,Timothy Andrew Mayer,united-states-of-america,0,0,0,0,0.0,1,1,1962.0,1962.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+timo-glock,Timo Glock,Timo Glock,germany,0,0,3,0,51.0,95,91,2004.0,2012.0,6.0,9.0,0.0,3.3,0.0,0,0,15,0,15,0.0
+tom-belso,Tom Belsø,Tom Belsø,denmark,0,0,0,0,0.0,5,2,1973.0,1974.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+tom-bridger,Tom Bridger,Thomas Bridger,united-kingdom,0,0,0,0,0.0,1,1,1958.0,1958.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+tom-jones,Tom Jones,Tom Jones,united-states-of-america,0,0,0,0,0.0,1,0,1967.0,1967.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+tom-pryce,Tom Pryce,Thomas Maldwyn Pryce,united-kingdom,0,0,2,1,19.0,42,42,1974.0,1977.0,4.0,4.0,0.0,4.76,2.38,0,0,10,3,13,0.0
+tomas-enge,Tomáš Enge,Tomáš Enge,czechia,0,0,0,0,0.0,3,3,2001.0,2001.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+tommy-byrne,Tommy Byrne,Thomas Byrne,ireland,0,0,0,0,0.0,5,2,1982.0,1982.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+toni-branca,Toni Branca,Antonio Branca,switzerland,0,0,0,0,0.0,3,3,1950.0,1951.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+toni-ulmen,Toni Ulmen,Anton Ulmen,germany,0,0,0,0,0.0,2,2,1952.0,1952.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+tony-bettenhausen,Tony Bettenhausen,Melvin Eugene Bettenhausen,united-states-of-america,0,0,1,0,11.0,11,11,1950.0,1960.0,11.0,11.0,0.0,9.09,0.0,0,0,5,0,5,0.0
+tony-brise,Tony Brise,Anthony William Brise,united-kingdom,0,0,0,0,1.0,10,10,1975.0,1975.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+tony-brooks,Tony Brooks,Charles Anthony Standish Brooks,united-kingdom,0,6,10,3,75.0,39,38,1956.0,1961.0,6.0,6.0,15.79,26.32,7.69,0,120,50,9,179,0.0
+tony-crook,Tony Crook,Anthony Crook,united-kingdom,0,0,0,0,0.0,2,2,1952.0,1953.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+tony-gaze,Tony Gaze,Frederick Anthony Owen Gaze,australia,0,0,0,0,0.0,4,3,1952.0,1952.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+tony-maggs,Tony Maggs,Anthony Francis O'Connell Maggs,south-africa,0,0,3,0,26.0,27,25,1961.0,1965.0,5.0,5.0,0.0,12.0,0.0,0,0,15,0,15,0.0
+tony-marsh,Tony Marsh,Anthony Ernest Marsh,united-kingdom,0,0,0,0,0.0,5,4,1957.0,1961.0,3.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+tony-rolt,Tony Rolt,Anthony Peter Roylance Rolt,united-kingdom,0,0,0,0,0.0,3,3,1950.0,1955.0,3.0,6.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+tony-settember,Tony Settember,Anthony Frank Settember,united-states-of-america,0,0,0,0,0.0,7,6,1962.0,1963.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+tony-shelly,Tony Shelly,Anthony Lionel Shelly,new-zealand,0,0,0,0,0.0,3,1,1962.0,1962.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+tony-trimmer,Tony Trimmer,Tony Trimmer,united-kingdom,0,0,0,0,0.0,6,0,1975.0,1978.0,4.0,4.0,,,0.0,0,0,0,0,0,0.0
+toranosuke-takagi,Toranosuke Takagi,Toranosuke Takagi,japan,0,0,0,0,0.0,32,32,1998.0,1999.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+torsten-palm,Torsten Palm,Torsten Palm,sweden,0,0,0,0,0.0,2,1,1975.0,1975.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+toshio-suzuki,Toshio Suzuki,Toshio Suzuki,japan,0,0,0,0,0.0,2,2,1993.0,1993.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+trevor-blokdyk,Trevor Blokdyk,John Trevor Blokdyk,south-africa,0,0,0,0,0.0,2,1,1963.0,1965.0,2.0,3.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+trevor-taylor,Trevor Taylor,Trevor Taylor,united-kingdom,0,0,1,0,8.0,29,27,1959.0,1966.0,6.0,8.0,0.0,3.7,0.0,0,0,5,0,5,0.0
+troy-ruttman,Troy Ruttman,Troy Ruttman,united-states-of-america,0,1,1,0,9.5,9,8,1950.0,1960.0,8.0,11.0,12.5,12.5,0.0,0,20,5,0,25,0.0
+ukyo-katayama,Ukyo Katayama,Ukyo Katayama,japan,0,0,0,0,5.0,97,95,1992.0,1997.0,6.0,6.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+umberto-maglioli,Umberto Maglioli,Umberto Maglioli,italy,0,0,2,0,3.33,10,10,1953.0,1957.0,5.0,5.0,0.0,20.0,0.0,0,0,10,0,10,0.0
+valtteri-bottas,Valtteri Bottas,Valtteri Bottas,finland,0,10,67,20,1797.0,247,246,2013.0,2024.0,12.0,12.0,4.07,27.24,8.1,0,200,335,60,595,0.0
+vern-schuppan,Vern Schuppan,Vernon Schuppan,australia,0,0,0,0,0.0,13,9,1972.0,1977.0,4.0,6.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+vic-elford,Vic Elford,Victor Henry Elford,united-kingdom,0,0,0,0,8.0,13,13,1968.0,1971.0,3.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+vic-wilson,Vic Wilson,Vic Wilson,united-kingdom,0,0,0,0,0.0,2,1,1960.0,1966.0,2.0,7.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+victor-martins,Victor Martins,Victor Martins,france,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+vincenzo-sospiri,Vincenzo Sospiri,Vincenzo Sospiri,italy,0,0,0,0,0.0,1,0,1997.0,1997.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+vitaly-petrov,Vitaly Petrov,Vitaly Aleksandrovich Petrov,russia,0,0,1,0,64.0,58,57,2010.0,2012.0,3.0,3.0,0.0,1.75,0.0,0,0,5,0,5,0.0
+vitantonio-liuzzi,Vitantonio Liuzzi,Vitantonio Liuzzi,italy,0,0,0,0,26.0,80,80,2005.0,2011.0,6.0,7.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+vittorio-brambilla,Vittorio Brambilla,Vittorio Brambilla,italy,0,1,1,1,15.5,79,74,1974.0,1980.0,7.0,7.0,1.35,1.35,1.27,0,20,5,3,28,0.0
+volker-weidler,Volker Weidler,Volker Weidler,germany,0,0,0,0,0.0,10,0,1989.0,1989.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+walt-ader,Walt Ader,Walt Ader,united-states-of-america,0,0,0,0,0.0,1,1,1950.0,1950.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+walt-brown,Walt Brown,Walt Brown,united-states-of-america,0,0,0,0,0.0,2,2,1950.0,1951.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+walt-faulkner,Walt Faulkner,Walt Faulkner,united-states-of-america,0,0,0,1,1.0,5,5,1950.0,1955.0,5.0,6.0,0.0,0.0,20.0,0,0,0,3,3,0.0
+walt-hansgen,Walt Hansgen,Walter Edwin Hansgen,united-states-of-america,0,0,0,0,2.0,2,2,1961.0,1964.0,2.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+warwick-brown,Warwick Brown,Warwick Brown,australia,0,0,0,0,0.0,1,1,1976.0,1976.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+wayne-weiler,Wayne Weiler,Wayne Weiler,united-states-of-america,0,0,0,0,0.0,1,1,1960.0,1960.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+will-stevens,Will Stevens,William Stevens,united-kingdom,0,0,0,0,0.0,20,18,2014.0,2015.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+willi-heeks,Willi Heeks,Willi Heeks,germany,0,0,0,0,0.0,2,2,1952.0,1953.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+willi-krakau,Willi Krakau,Willi Krakau,germany,0,0,0,0,0.0,1,0,1952.0,1952.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+william-ferguson,William Ferguson,William Ferguson,south-africa,0,0,0,0,0.0,1,0,1972.0,1972.0,1.0,1.0,,,0.0,0,0,0,0,0,0.0
+willy-mairesse,Willy Mairesse,Willy Mairesse,belgium,0,0,1,0,7.0,13,12,1960.0,1965.0,5.0,6.0,0.0,8.33,0.0,0,0,5,0,5,0.0
+wilson-fittipaldi,Wilson Fittipaldi,Wilson Fittipaldi Júnior,brazil,0,0,0,0,3.0,38,35,1972.0,1975.0,3.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+wolfgang-seidel,Wolfgang Seidel,Wolfgang Seidel,germany,0,0,0,0,0.0,13,10,1953.0,1962.0,5.0,10.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+wolfgang-von-trips,Wolfgang von Trips,Wolfgang Alexander Albert Eduard Maximilian Reichsgraf Berghe von Trips,germany,0,2,6,1,56.0,29,27,1956.0,1961.0,6.0,6.0,7.41,22.22,3.45,0,40,30,3,73,0.0
+xavier-perrot,Xavier Perrot,Xavier Roger Perrot,switzerland,0,0,0,0,0.0,1,1,1969.0,1969.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+yannick-dalmas,Yannick Dalmas,Yannick Dalmas,france,0,0,0,0,0.0,50,24,1987.0,1994.0,5.0,8.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+yuji-ide,Yuji Ide,Yuji Ide,japan,0,0,0,0,0.0,4,4,2006.0,2006.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+yuki-tsunoda,Yuki Tsunoda,Yuki Tsunoda,japan,0,0,0,0,111.0,107,104,2021.0,2025.0,5.0,5.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+yves-giraud-cabantous,Yves Giraud-Cabantous,Marius Aristide Yves Giraud-Cabantous,france,0,0,0,0,5.0,13,13,1950.0,1953.0,4.0,4.0,0.0,0.0,0.0,0,0,0,0,0,0.0
+zak-osullivan,Zak O'Sullivan,Zak O'Sullivan,united-kingdom,0,0,0,0,0.0,0,0,,,,,,,,0,0,0,0,0,
+zsolt-baumgartner,Zsolt Baumgartner,Zsolt Baumgartner,hungary,0,0,0,0,1.0,20,20,2003.0,2004.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,0.0
